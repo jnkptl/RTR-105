@@ -1,7 +1,6 @@
 # RTR-105
 Computer Studies (Basic Course) - Adaptronics - Prepatory Work
+entry1
 
-ieraksts1
-
-ieraksts2
-ieraksts3
+entry2
+entry3
