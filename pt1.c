@@ -2,15 +2,13 @@
 
 int main()
 {
-    long long int a;
-    long long int b;
-    printf("type four hundred thousand as a number: ");
-    scanf("%lli",&a);
-    printf("type one hundred thousand as a number: ");
-    scanf("%lli",&b);
-    long long int c = a * b;
-    printf("%lli * %lli = %lli\n",a,b,c);
-    
-    
-    return 0;
+	long a,b;
+	printf("type four hundred thousand as a number: ");
+	scanf("%li",&a);
+	printf("type one hundred thousand as a number: ");
+	scanf("%li",&b);
+	long c = a * b;
+	printf("%li * %li = %li\n",a,b,c);
+
+	return 0;
 }
