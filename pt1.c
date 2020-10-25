@@ -9,7 +9,7 @@ int main()
     printf("type one hundred thousand as a number: ");
     scanf("%lli",&b);
     long long int c = a * b;
-    printf("%lli * %lli = %lli",a,b,c);
+    printf("%lli * %lli = %lli\n",a,b,c);
     
     
     return 0;
