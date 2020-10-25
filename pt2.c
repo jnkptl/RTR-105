@@ -4,7 +4,7 @@ int main()
 {
     char a;
 //    printf("value of a: %d\n",a);
-    printf("type a decmical value (0-9): ");
+    printf("type a single decmical value (0-9): ");
     scanf("%c",&a);
     char z = a >> 1; // divides by 2 [2^1]
     char y = z >> 2; // divides by 4 [2^2]
