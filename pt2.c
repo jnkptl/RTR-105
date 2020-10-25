@@ -18,6 +18,7 @@ int main()
     //printf("result: z=%d y=%d x=%d w=%d\n",z,y,x,w);
     printf("binary value: %d%d%d%d",e,d,c,b);
     /*
+    verification:
     0 = 0000; 0 = 48
     1 = 0001; 1 = 49
     2 = 0010; 2 = 50
@@ -29,7 +30,6 @@ int main()
     8 = 1000; 8 = 56
     9 = 1001; 9 = 57
     */
-    
     
     return 0;
 }
