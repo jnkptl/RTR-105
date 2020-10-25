@@ -16,7 +16,7 @@ int main()
     char d = y - x - x; // remainder when y divided by 2
     char e = x - w - w; // remainder when x divided by 2
     //printf("result: z=%d, y=%d, x=%d, w=%d\n",z,y,x,w);
-    printf("binary value: %d%d%d%d",e,d,c,b);
+    printf("binary value: %d%d%d%d\n",e,d,c,b);
     /*
     0 = 0000 = 48
     1 = 0001 = 49
