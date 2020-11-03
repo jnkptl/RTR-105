@@ -20,7 +20,6 @@ double my_function_4 (int in_a_4a, int in_a_4b);
 
 int main ()
 {
-
   printf ("Hello from main function\n");
   double result_main;
   char a_main;
@@ -35,14 +34,12 @@ int main ()
   return 0;
 }
 
-void
-my_function_1 ()
+void my_function_1 ()
 {
   printf ("Hej fra my_function_1!\n");
 }
 
-int
-my_function_2 ()
+int my_function_2 ()
 {
   int a_2 = 74;
   printf ("Sveiki no my_function_2!\n");
@@ -50,15 +47,13 @@ my_function_2 ()
   return a_2;
 }
 
-void
-my_function_3 (int in_a_3)
+void my_function_3 (int in_a_3)
 {
   printf ("Sveiki no my_function_3!\n");
   printf ("in_a_3 = %d from my_function_3\n", in_a_3);
 }
 
-double
-my_function_4 (int in_a_4a, int in_a_4b)
+double my_function_4 (int in_a_4a, int in_a_4b)
 {
   double result = (float) in_a_4a / in_a_4b;
   printf ("Sveiki no my_function_4!\n");
