@@ -1,7 +1,7 @@
 // Operators:
 // bit operators: << and >>
-// << (left shift - shifts left bits of operand by a specified number)
-// >> (right shift - shifts right bits of operand by specified number)
+// << (left shift - shifts left bits of operand by a specified number) (multiplies by 2^n)
+// >> (right shift - shifts right bits of operand by specified number) (divides by 2^n)
 
 #include <stdio.h>
 #include <time.h>
