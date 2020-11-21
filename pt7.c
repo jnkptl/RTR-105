@@ -60,40 +60,40 @@ int main()
 
 	break;
 
-/*	case 2: // operations for descending sort order
+	case 2: // operations for descending sort order
 	//printf("descending order: ");
 
-	if(dec_1 > dec_2){ // a>b
-		if(dec_2 > dec_3){ // a>b & b>c -> abc
-		printf("%i %i %i\n",dec_1,dec_2,dec_3);
+	if(*dec_1 > *dec_2){ // a>b
+		if(*dec_2 > *dec_3){ // a>b & b>c -> abc
+		printf("%i %i %i\n",*dec_1,*dec_2,*dec_3);
 		}
-		else if(dec_3 > dec_1){ // a>b & c>a -> cab
-		printf("%i %i %i\n",dec_3,dec_1,dec_2);
+		else if(*dec_3 > *dec_1){ // a>b & c>a -> cab
+		printf("%i %i %i\n",*dec_3,*dec_1,*dec_2);
 		}
-		else if(dec_3 > dec_2){ // a>b & a>c & c>b -> acb
-		printf("%i %i %i\n",dec_1,dec_3,dec_2);
+		else if(*dec_3 > *dec_2){ // a>b & a>c & c>b -> acb
+		printf("%i %i %i\n",*dec_1,*dec_3,*dec_2);
 		}
 		}
 
 		else{ // b>a
-		if(dec_1 > dec_3){ // b>a & a>c -> bac
-		printf("%i %i %i\n",dec_2,dec_1,dec_3);
+		if(*dec_1 > *dec_3){ // b>a & a>c -> bac
+		printf("%i %i %i\n",*dec_2,*dec_1,*dec_3);
 		}
-		else if(dec_3 > dec_2){ // b>a & c>a & c>b -> cba
-		printf("%i %i %i\n",dec_3,dec_2,dec_1);
+		else if(*dec_3 > *dec_2){ // b>a & c>a & c>b -> cba
+		printf("%i %i %i\n",*dec_3,*dec_2,*dec_1);
 		}
-		else if(dec_3 > dec_1){ // b>a & b>c & c>a -> bca
-		printf("%i %i %i\n",dec_2,dec_3,dec_1);
+		else if(*dec_3 > *dec_1){ // b>a & b>c & c>a -> bca
+		printf("%i %i %i\n",*dec_2,*dec_3,*dec_1);
 		}
 		}
 
 	break;
-	}
+		}
 
-	printf("first value: %i\n",dec_1);
-	printf("second value: %i\n",dec_2);
-	printf("third value: %i\n",dec_3);
-*/}
+	// printf("first value: %i\n",*dec_1);
+	// printf("second value: %i\n",*dec_2);
+	// printf("third value: %i\n",*dec_3);
+
 
 	printf("\nvalue of array_num[0] = %i\n",array_num[0]);
 	printf("value of array_num[1] = %i\n",array_num[1]);
