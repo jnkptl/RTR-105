@@ -1,8 +1,8 @@
 // pt6 programming task 6
-// 1 - without arguments and without return - void fun()
-// 2 - with arguments and without return - void fun(a)
-// 3 - without arguments and with return - int fun()
-// 4 - with arguments and with return - int fun(b)
+// 1 - without arguments and without return - void fun1()
+// 2 - with arguments and without return - void fun2(a)
+// 3 - without arguments and with return - int fun3()
+// 4 - with arguments and with return - int fun4(b)
 
 #include <stdio.h>
 
