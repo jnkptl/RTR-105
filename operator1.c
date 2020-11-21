@@ -11,10 +11,12 @@ int main()
 {
 	char a = 5;
 	char b = 10;
+	
 // + (addition - adds two values together)
 	char c = a + b;
 	printf("a+b=%d\n",a+b);
 	printf("%d + %d = %d\n",a,b,c);
+	
 // / (division - divides one value by another)
 	char d = a / b; // char / char -> char
 	printf("%d / %d = %d\n",a,b,d); // expect 5 / 10 = 0.5; get 0
