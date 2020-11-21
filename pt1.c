@@ -3,6 +3,7 @@
 int main()
 {
 	long a,b;
+	
 	printf("type four hundred thousand as a number: ");
 	scanf("%li",&a);
 	printf("type one hundred thousand as a number: ");
