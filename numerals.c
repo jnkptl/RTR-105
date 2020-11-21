@@ -11,7 +11,7 @@
 // Elementary information unit for computer? - bit
 // Elementary information unit for computer (with address)? - byte, 1 byte = 8 bits (xxxx xxxx)
 
-// How many different unique binary combinations are in 1 byte? - 2^8 = 256
+// How many different unique binary combinations are in 1 byte? - [eight values either 0 or 1] 2^8 = 256
 // 1 bit: 0, 1 - 2 combinations
 // 2 bits: 00, 01, 10, 11 - 4 combinations
 // 3 bits: 000, 001, 010, 011, 100, 101, 110, 111 - 8 combinations
