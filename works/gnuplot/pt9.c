@@ -14,7 +14,7 @@ int main()
 
 	printf("please define range...\nstart: ");
 	scanf(" %f",&a);
-	printf("end: ");
+	printf("  end: ");
 	scanf(" %f",&c);
 	float diff = c - a;
 	float pnt = diff / 10;
@@ -22,23 +22,23 @@ int main()
 //	b = c;
 
 //	printf("\n");
-	fprintf(fptr,"#x	x^2\n");
+	fprintf(fptr,"#x	f(x)\n");
 
 //	printf("	diff = %f\n	pnt = %f\n",diff,pnt);
 	float i = a;
 
-	while(i<c+1)
+	while(i<c+1) // so that the set includes the upper limit
 		{
 		x = i;
 		y = i*i;
 		fprintf(fptr,"%.2f	%.2f\n",x,y);
 		stop++;
 		i = i + pnt;
-		if(stop==11)
-		 {return 0;}
+		if(stop==11) // stops program from printing any values exceeding given range
+		 break;
 		}
 
-//	printf("%.2f	%.2f\n",i,c);
+//	printf("i = %.2f	c = %.2f\n",i,c);
 
 //	printf("\n");
 

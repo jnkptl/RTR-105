@@ -1,0 +1,1000 @@
+ 1169  ~/git_env/RTR-105/a.out 
+ 1170  nano fun_fact.c 
+ 1171  gcc fun_fact.c
+ 1172  nano fun_fact.c 
+ 1173  gcc fun_fact.c
+ 1174  nano fun_fact.c 
+ 1175  gcc fun_fact.c
+ 1176  ~/git_env/RTR-105/a.out 
+ 1177  nano fun_fact.c 
+ 1178  gcc fun_fact.c
+ 1179  ~/git_env/RTR-105/a.out 
+ 1180  nano fun_fact.c 
+ 1181  gcc fun_fact.c
+ 1182  nano fun_fact.c 
+ 1183  gcc fun_fact.c
+ 1184  ~/git_env/RTR-105/a.out 
+ 1185  nano fun_fact.c 
+ 1186  ~/git_env/RTR-105/a.out 
+ 1187  nano fun_fact.c 
+ 1188  gcc fun_fact.c
+ 1189  nano fun_fact.c 
+ 1190  gcc fun_fact.c
+ 1191  ~/git_env/RTR-105/a.out 
+ 1192  nano fun_fact.c 
+ 1193  gcc fun_fact.c
+ 1194  ~/git_env/RTR-105/a.out 
+ 1195  nano fun_fact.c 
+ 1196  nano pt6.c
+ 1197  nano fun_fact.c 
+ 1198  cp fun_fact.c pt6.c
+ 1199  nano pt6.c
+ 1200  gcc pt6.c
+ 1201  ~/git_env/RTR-105/a.out 
+ 1202  nano pt6.c
+ 1203  gcc pt6.c
+ 1204  ~/git_env/RTR-105/a.out 
+ 1205  nano pt6.c
+ 1206  gcc pt6.c
+ 1207  ~/git_env/RTR-105/a.out 
+ 1208  nano pt6.c
+ 1209  gcc pt6.c
+ 1210  nano pt6.c
+ 1211  gcc pt6.c
+ 1212  ~/git_env/RTR-105/a.out 
+ 1213  nano pt6.c
+ 1214  gcc pt6.c
+ 1215  nano pt6.c
+ 1216  gcc pt6.c
+ 1217  nano pt6.c
+ 1218  ~/git_env/RTR-105/a.out 
+ 1219  nano pt6.c
+ 1220  gcc pt6.c
+ 1221  ~/git_env/RTR-105/a.out 
+ 1222  nano pt6.c
+ 1223  gcc pt6.c
+ 1224  ~/git_env/RTR-105/a.out 
+ 1225  nano pt6.c
+ 1226  gcc pt6.c
+ 1227  nano pt6.c
+ 1228  gcc pt6.c
+ 1229  ~/git_env/RTR-105/a.out 
+ 1230  nano pt6.c
+ 1231  gcc pt6.c
+ 1232  nano pt6.c
+ 1233  gcc pt6.c
+ 1234  ~/git_env/RTR-105/a.out 
+ 1235  nano pt6.c
+ 1236  gcc pt6.c
+ 1237  nano pt6.c
+ 1238  gcc pt6.c
+ 1239  ~/git_env/RTR-105/a.out 
+ 1240  nano pt6.c
+ 1241  gcc pt6.c
+ 1242  ~/git_env/RTR-105/a.out 
+ 1243  git commit -m "user define functions" pt6.c
+ 1244  git commit -m "user define functions" pt6.c
+ 1245  git status
+ 1246  git add pt6.c
+ 1247  git commit -m "user define functions" pt6.c
+ 1248  git push
+ 1249  git commit -m "user defined functions" pt6.c
+ 1250  git add fun_fact.c
+ 1251  git add functions.c
+ 1252  git add pt7.c
+ 1253  git rm Class 12 - function exploration
+ 1254  git rm "Class 12 - function exploration"
+ 1255  git status
+ 1256  git commit -m "user defined functions" pt6.c
+ 1257  git rm pt6.c
+ 1258  git push
+ 1259  git status
+ 1260  git commit -m "factorial with functions" fun_fact.c
+ 1261  git commit -m "class 12" functions.c
+ 1262  git commit -m "pointers exploration" pt7.c
+ 1263  git push
+ 1264  git status
+ 1265  git pull
+ 1266  git commit -m "user defined functions" pt6.c
+ 1267  git push
+ 1268  git status
+ 1269  sudo git push
+ 1270  git pull
+ 1271  ls
+ 1272  rm a.out
+ 1273  git push
+ 1274  git status
+ 1275  git commit
+ 1276  git pull
+ 1277  git push
+ 1278  git push --help
+ 1279  git push -f
+ 1280  git status
+ 1281  git add pt6.c
+ 1282  ls
+ 1283  git delete Class 12 - function exploration
+ 1284  git rm Class 12 - function exploration
+ 1285  git rm Class_12_-_function_exploration
+ 1286  git list
+ 1287  git
+ 1288  ls
+ 1289  git pull
+ 1290  ls
+ 1291  nano pt6.c
+ 1292  git commit -m "user defined functions" pt6.c
+ 1293  git push
+ 1294  git pull
+ 1295  git commit -m "user defined functions" pt6.c
+ 1296  git commit -m "user defined functions" pt6.c -f
+ 1297  git commit -m -f "user defined functions" pt6.c
+ 1298  git -f commit -m "user defined functions" pt6.c
+ 1299  git commit -f -m "user defined functions" pt6.c
+ 1300  git commit -fm "user defined functions" pt6.c
+ 1301  cd git_env/RTR-105/
+ 1302  nano outputtofile.c
+ 1303  gcc outputtofile.c 
+ 1304  nano outputtofile.c
+ 1305  gcc outputtofile.c 
+ 1306  ~/git_env/RTR-105/a.out 
+ 1307  ls
+ 1308  cat text.data
+ 1309  ~/git_env/RTR-105/a.out 
+ 1310  ls -lt
+ 1311  nano text.data 
+ 1312  ls -lt
+ 1313  cat text.data 
+ 1314  ~/git_env/RTR-105/a.out 
+ 1315  ls -lt
+ 1316  cat text.data 
+ 1317  cp outputtofile.c outputfromfile.c
+ 1318  nano outputfromfile.c 
+ 1319  gcc outputfromfile.c 
+ 1320  nano outputfromfile.c 
+ 1321  gcc outputfromfile.c 
+ 1322  cat text.data 
+ 1323  nano outputfromfile.c 
+ 1324  gcc outputfromfile.c 
+ 1325  cat text.data 
+ 1326  nano outputfromfile.c 
+ 1327  gcc outputfromfile.c 
+ 1328  nano outputfromfile.c 
+ 1329  gcc outputfromfile.c 
+ 1330  nano outputfromfile.c 
+ 1331  gcc outputfromfile.c 
+ 1332  nano outputfromfile.c 
+ 1333  gcc outputfromfile.c 
+ 1334  nano outputfromfile.c 
+ 1335  gcc outputfromfile.c 
+ 1336  nano outputfromfile.c 
+ 1337  gcc outputfromfile.c 
+ 1338  nano outputfromfile.c 
+ 1339  gcc outputfromfile.c 
+ 1340  ~/git_env/RTR-105/a.out 
+ 1341  nano outputfromfile.c 
+ 1342  gcc outputfromfile.c 
+ 1343  ~/git_env/RTR-105/a.out 
+ 1344  nano outputfromfile.c 
+ 1345  gcc outputfromfile.c 
+ 1346  nano outputfromfile.c 
+ 1347  ~/git_env/RTR-105/a.out 
+ 1348  nano outputfromfile.c 
+ 1349  gcc outputfromfile.c 
+ 1350  nano outputfromfile.c 
+ 1351  gcc outputfromfile.c 
+ 1352  nano outputfromfile.c 
+ 1353  gcc outputfromfile.c 
+ 1354  ~/git_env/RTR-105/a.out 
+ 1355  nano outputfromfile.c 
+ 1356  gcc outputfromfile.c 
+ 1357  ~/git_env/RTR-105/a.out 
+ 1358  nano outputfromfile.c 
+ 1359  cd git_env//RTR-105/
+ 1360  ls
+ 1361  nano outputfromfile.c 
+ 1362  $?
+ 1363  echo $?
+ 1364  nano file_fgets.c
+ 1365  nano file_fwrite.c
+ 1366  gcc file_fwrite.c 
+ 1367  ./a.out
+ 1368  ls -lt
+ 1369  hexdump -C myfile.bin 
+ 1370  nano file_fwrite.c
+ 1371  gcc file_fwrite.c 
+ 1372  ./a.out
+ 1373  hexdump -C myfile.bin 
+ 1374  nano file_fread.c
+ 1375  ls
+ 1376  cp outputfromfile.c rw.c
+ 1377  nano rw.c 
+ 1378  nano file_fwrite.c 
+ 1379  gcc file_fwrite.c 
+ 1380  ./a.out 
+ 1381  ls -lt
+ 1382  hexdump -C myfile.bin 
+ 1383  nano file_fwrite.c 
+ 1384  gcc file_fwrite.c 
+ 1385  ./a.out 
+ 1386  ls -lt
+ 1387  hexdump -C myfile.bin 
+ 1388  nano file_fwrite.c 
+ 1389  gcc file_fwrite.c 
+ 1390  ./a.out 
+ 1391  hexdump -C myfile.bin 
+ 1392  ls -lt
+ 1393  ls
+ 1394  nano file_fputs.c
+ 1395  gcc file_fputs.c 
+ 1396  ./a.out 
+ 1397  ls -lt
+ 1398  cat mylog.txt 
+ 1399  rm mylog.txt 
+ 1400  ./a.out 
+ 1401  cat mylog.txt 
+ 1402  cp file_fputs.c fputs.c
+ 1403  nano fputs.c 
+ 1404  rm mylog.txt 
+ 1405  gcc fputs.c 
+ 1406  ./a.out 
+ 1407  cat mylog.txt 
+ 1408  nano fputs.c 
+ 1409  ./a.out 
+ 1410  cat mylog.txt 
+ 1411  ls
+ 1412  rm fputs.c 
+ 1413  gcc file_fgets.c 
+ 1414  nano file_fgets.c 
+ 1415  gcc file_fgets.c 
+ 1416  nano file_fgets.c 
+ 1417  nano file_fputs.c 
+ 1418  nano file_fgets.c 
+ 1419  nano file_fputs.c 
+ 1420  nano file_fgets.c 
+ 1421  gcc file_fgets.c 
+ 1422  nano file_fgets.c 
+ 1423  gcc file_fgets.c 
+ 1424  ./a.out 
+ 1425  clear
+ 1426  gnuplot
+ 1427  sudo apt install gnuplot-x11
+ 1428  sudo apt-get update
+ 1429  sudo apt install gnuplot-x11
+ 1430  gnuplot
+ 1431  nano gnuplott1.txt
+ 1432  gnuplot
+ 1433  nano gnuplott1.txt
+ 1434  gnuplot
+ 1435  nano gnuplott1.txt 
+ 1436  nano data.txt
+ 1437  gnuplot
+ 1438  nano data.txt
+ 1439  gnuplot
+ 1440  $DISPLAY
+ 1441  echo $DISPLAY
+ 1442  echo $DISPLAY $DISPLAY
+ 1443  gnuplot
+ 1444  nano plot1.gp
+ 1445  nano data.txt 
+ 1446  nano plot1.gp 
+ 1447  gnuplot
+ 1448  nano plot1.gp 
+ 1449  nano pt9.c
+ 1450  nano my-script.sh
+ 1451  ls
+ 1452  chmod 755 my-script.sh
+ 1453  ./my-script.sh 
+ 1454  ls
+ 1455  nano plot.sh
+ 1456  nano plot.out
+ 1457  mv plot.out plot.c
+ 1458  nano plot.c
+ 1459  mv plot.c plot.out
+ 1460  chmod 744 plot.out
+ 1461  ./plot.out
+ 1462  chmod 755 plot.out
+ 1463  ./plot.out
+ 1464  nano plot.c
+ 1465  nano plot.out
+ 1466  mc plot.out
+ 1467  mv plot.out plot.c
+ 1468  gcc plot.c
+ 1469  ./a.out
+ 1470  nano plot.c
+ 1471  ls -lt
+ 1472  cat data.txt
+ 1473  nano plot.c
+ 1474  gcc plot.c
+ 1475  ./a.out
+ 1476  cat data.txt
+ 1477  nano plot.c
+ 1478  gcc plot.c
+ 1479  ./a.out
+ 1480  cat data.txt
+ 1481  ls
+ 1482  nano file_fwrite.c 
+ 1483  nano plot_fwrite.c 
+ 1484  gcc plot_fwrite.c 
+ 1485  nano plot_fwrite.c 
+ 1486  gcc plot_fwrite.c 
+ 1487  ./a.out 
+ 1488  cat data.txt 
+ 1489  ls -lt
+ 1490  cat data.txt 
+ 1491  # This file is called   force.dat
+ 1492  # Force-Deflection data for a beam and a bar
+ 1493  # Deflection    Col-Force       Beam-Force 
+ 1494  0.000              0              0
+ 1495  0.001            104             51
+ 1496  0.002            202            101
+ 1497  0.003            298            148
+ 1498  0.0031           290            149
+ 1499  0.004            289            201
+ 1500  0.0041           291            209
+ 1501  0.005            310            250
+ 1502  0.010            311            260
+ 1503  nano data.txt 
+ 1504  # This file is called   force.dat
+ 1505  # Force-Deflection data for a beam and a bar
+ 1506  # Deflection    Col-Force       Beam-Force 
+ 1507  0.000              0              0
+ 1508  0.001            104             51
+ 1509  0.002            202            101
+ 1510  0.003            298            148
+ 1511  0.0031           290            149
+ 1512  0.004            289            201
+ 1513  0.0041           291            209
+ 1514  0.005            310            250
+ 1515  0.010            311            260
+ 1516  0.020            280            240# This file is called   force.dat
+ 1517  # Force-Deflection data for a beam and a bar
+ 1518  # Deflection    Col-Force       Beam-Force 
+ 1519  0.000              0              0
+ 1520  0.001            104             51
+ 1521  0.002            202            101
+ 1522  0.003            298            148
+ 1523  0.0031           290            149
+ 1524  0.004            289            201
+ 1525  0.0041           291            209
+ 1526  0.005            310            250
+ 1527  0.010            311            260
+ 1528  0.020            280            240# This file is called   force.dat
+ 1529  # Force-Deflection data for a beam and a bar
+ 1530  # Deflection    Col-Force       Beam-Force 
+ 1531  0.000              0              0
+ 1532  0.001            104             51
+ 1533  0.002            202            101
+ 1534  0.003            298            148
+ 1535  0.0031           290            149
+ 1536  0.004            289            201
+ 1537  0.0041           291            209
+ 1538  0.005            310            250
+ 1539  0.010            311            260
+ 1540  nano plot.gp
+ 1541  ls
+ 1542  nano plot1.gp 
+ 1543  nano data1.txt
+ 1544  nano file_fwrite.c 
+ 1545  nano plot_fwrite.c 
+ 1546  gcc plot_fwrite.c 
+ 1547  ./a.out 
+ 1548  nano data.txt 
+ 1549  nano plot_
+ 1550  ls
+ 1551  nano plot_fwrite.c 
+ 1552  gcc plot_fwrite.c 
+ 1553  ./a.out 
+ 1554  nano plot_fwrite.c 
+ 1555  gcc plot_fwrite.c 
+ 1556  ./a.out 
+ 1557  nano plot_fwrite.c 
+ 1558  gcc plot_fwrite.c 
+ 1559  nano plot_fwrite.c 
+ 1560  gcc plot_fwrite.c 
+ 1561  ./a.out 
+ 1562  nano plot_fwrite.c 
+ 1563  gcc plot_fwrite.c 
+ 1564  ./a.out 
+ 1565  nano plot_fwrite.c 
+ 1566  gcc plot_fwrite.c 
+ 1567  nano plot_fwrite.c 
+ 1568  gcc plot_fwrite.c 
+ 1569  nano plot_fwrite.c 
+ 1570  gcc plot_fwrite.c 
+ 1571  ./a.out 
+ 1572  nano data.txt 
+ 1573  nano plot_fwrite.c 
+ 1574  gcc plot_fwrite.c 
+ 1575  ./a.out 
+ 1576  nano data.txt 
+ 1577  gcc plot_fwrite.c 
+ 1578  nano plot_fwrite.c 
+ 1579  gcc plot_fwrite.c 
+ 1580  ./a.out 
+ 1581  nano plot_fwrite.c 
+ 1582  gcc plot_fwrite.c 
+ 1583  ./a.out 
+ 1584  nano plot_fwrite.c 
+ 1585  gcc plot_fwrite.c 
+ 1586  ./a.out 
+ 1587  cat data.txt 
+ 1588  nano plot_fwrite.c 
+ 1589  gcc plot_fwrite.c 
+ 1590  nano plot_fwrite.c 
+ 1591  gcc plot_fwrite.c 
+ 1592  nano plot_fwrite.c 
+ 1593  gcc plot_fwrite.c 
+ 1594  ./a.out 
+ 1595  nano plot_fwrite.c 
+ 1596  gcc plot_fwrite.c 
+ 1597  ./a.out 
+ 1598  nano plot_fwrite.c 
+ 1599  gcc plot_fwrite.c 
+ 1600  ./a.out 
+ 1601  nano plot_fwrite.c 
+ 1602  gcc plot_fwrite.c 
+ 1603  ./a.out 
+ 1604  nano plot_fwrite.c 
+ 1605  gcc plot_fwrite.c 
+ 1606  ./a.out 
+ 1607  nano plot_fwrite.c 
+ 1608  gcc plot_fwrite.c 
+ 1609  ./a.out 
+ 1610  nano plot_fwrite.c 
+ 1611  gcc plot_fwrite.c 
+ 1612  ./a.out 
+ 1613  nano data.txt 
+ 1614  nano plot_fwrite.c 
+ 1615  gcc plot_fwrite.c 
+ 1616  nano plot_fwrite.c 
+ 1617  gcc plot_fwrite.c 
+ 1618  nano plot_fwrite.c 
+ 1619  gcc plot_fwrite.c 
+ 1620  nano plot_fwrite.c 
+ 1621  gcc plot_fwrite.c 
+ 1622  nano plot_fwrite.c 
+ 1623  cd git_env/RTR-105/
+ 1624  ls
+ 1625  ls -lt
+ 1626  nano plot.c
+ 1627  nano plot_fwrite.c 
+ 1628  rm plot.c
+ 1629  nano plot.sh
+ 1630  rm plot.sh
+ 1631  nano my-script.sh
+ 1632  rm my-script.sh 
+ 1633  ls-lt
+ 1634  ls -lt
+ 1635  nano pt9.c
+ 1636  nano pt7.c 
+ 1637  mv pt7.c pt7sort.c
+ 1638  nano pt4.c
+ 1639  nano pt3.c
+ 1640  nano pt3a.c
+ 1641  ./a.out 
+ 1642  cat data.txt 
+ 1643  nano pt3a.c
+ 1644  cp pt3a.c pointers.c
+ 1645  ls
+ 1646  git pull -force
+ 1647  git pull --force
+ 1648  nano pt6.c
+ 1649  nano pt3a.c
+ 1650  git
+ 1651  git restore pt3a.c
+ 1652  nano pt3a.c
+ 1653  nano pointers.c 
+ 1654  gcc pointers.c
+ 1655  nano pointers.c 
+ 1656  gcc pointers.c
+ 1657  ./a.out 
+ 1658  nano pointers.c 
+ 1659  gcc pointers.c
+ 1660  ./a.out 
+ 1661  nano pointers.c 
+ 1662  gcc pointers.c
+ 1663  nano pointers.c 
+ 1664  gcc pointers.c
+ 1665  ./a.out 
+ 1666  nano pointers.c 
+ 1667  gcc pointers.c
+ 1668  ./a.out 
+ 1669  nano pointers.c 
+ 1670  gcc pointers.c
+ 1671  nano pointers.c 
+ 1672  gcc pointers.c
+ 1673  ./a.out 
+ 1674  nano pointers.c 
+ 1675  gcc pointers.c
+ 1676  ./a.out 
+ 1677  nano pointers.c 
+ 1678  gcc pointers.c
+ 1679  ./a.out 
+ 1680  nano pointers.c 
+ 1681  gcc pointers.c
+ 1682  ./a.out 
+ 1683  nano pointers.c 
+ 1684  gcc pointers.c
+ 1685  ./a.out 
+ 1686  nano pointers.c 
+ 1687  gcc pointers.c
+ 1688  ./a.out 
+ 1689  nano pointers.c 
+ 1690  gcc pointers.c
+ 1691  nano pointers.c 
+ 1692  gcc pointers.c
+ 1693  ./a.out 
+ 1694  nano pointers.c 
+ 1695  gcc pointers.c
+ 1696  ./a.out 
+ 1697  nano pointers.c 
+ 1698  gcc pointers.c
+ 1699  ./a.out 
+ 1700  nano pointers.c 
+ 1701  gcc pointers.c
+ 1702  nano pointers.c 
+ 1703  gcc pointers.c
+ 1704  nano pointers.c 
+ 1705  gcc pointers.c
+ 1706  ./a.out 
+ 1707  nano pointers.c 
+ 1708  gcc pointers.c
+ 1709  ./a.out 
+ 1710  nano pointers.c 
+ 1711  gcc pointers.c
+ 1712  ./a.out 
+ 1713  cd git_env/RTR-105/
+ 1714  ls
+ 1715  nano plot_
+ 1716  nano plot_fwrite.c 
+ 1717  gcc plot_fwrite.c 
+ 1718  nano plot_fwrite.c 
+ 1719  gcc plot_fwrite.c 
+ 1720  ./a.out 
+ 1721  cat data.txt 
+ 1722  ls
+ 1723  nano gnuplott1.txt 
+ 1724  nano pt9.c 
+ 1725  nano plot1.gp 
+ 1726  nano gnuplott1.txt 
+ 1727  gnuplot
+ 1728  uninstall
+ 1729  sudo apt-get remove gnuplot
+ 1730  gnuplot
+ 1731  apt-get list
+ 1732  apt-get
+ 1733  apt-get remove
+ 1734  apt-get remove gnuplot-x11
+ 1735  sudo apt-get remove gnuplot-x11
+ 1736  apt-get install gnuplot
+ 1737  apt-get gnuplot
+ 1738  sudo apt-get install gnuplot
+ 1739  gnuplot
+ 1740  exit
+ 1741  gnuplot
+ 1742  exit
+ 1743  gnuplot
+ 1744  gedit ~/.bashrc &
+ 1745  sudo apt install gedit
+ 1746  gedit ~/.bashrc &
+ 1747  # enable autocomplete in gnuplot
+ 1748  gedit
+ 1749  sudo gedit ~/.bashrc &
+ 1750  gnuplot
+ 1751  choco install gnuplot
+ 1752  > choco install gnuplot
+ 1753  src/term.h
+ 1754  nano src/term.h
+ 1755  nano ~/src/term.h
+ 1756  xming
+ 1757  help xming
+ 1758  gnuplot
+ 1759  sudo apt-get install --reinstall libxcb-xinerama0
+ 1760  gnuplot
+ 1761  ldd /usr/lib/qt/plugins/platforms/libqxcb.so
+ 1762  apt-get
+ 1763  apt-get clean
+ 1764  sudo apt-get clean
+ 1765  sudo apt-get autoremove
+ 1766  ls -l /usr/lib/qt
+ 1767  ls -l /usr/
+ 1768  ls -l ~
+ 1769  cd choco
+ 1770  cd /choco
+ 1771  rm choco
+ 1772  ls /usr
+ 1773  export DISPLAY=:0 gnuplot
+ 1774  gnuplot
+ 1775  export DISPLAY=:0 gnuplot
+ 1776  gnuplot
+ 1777  export DISPLAY=localhost:0.0
+ 1778  gnuplot
+ 1779  sudo apt-get install -y xcb-proto
+ 1780  gnuplot
+ 1781  sudo apt-get remove gnup
+ 1782  sudo apt-get remove gnuplot-qt
+ 1783  gnuplot
+ 1784  export DISPLAY=:0 gnuplot
+ 1785  gnuplot
+ 1786  export DISPLAY=localhost:0.0
+ 1787  gnuplot
+ 1788  cd git_env/RTR-105/
+ 1789  ls
+ 1790  nano plot_fwrite.c 
+ 1791  nano pt9.c 
+ 1792  nano plot_fwrite.c 
+ 1793  nano 11pt.c
+ 1794  gcc 11pt.c 
+ 1795  nano 11pt.c
+ 1796  gcc 11pt.c 
+ 1797  ./a.out 
+ 1798  nano 11pt.c
+ 1799  gcc 11pt.c 
+ 1800  ./a.out 
+ 1801  nano 11pt.c
+ 1802  gcc 11pt.c 
+ 1803  ./a.out 
+ 1804  nano 11pt.c
+ 1805  gcc 11pt.c 
+ 1806  ./a.out 
+ 1807  nano 11pt.c
+ 1808  gcc 11pt.c 
+ 1809  ./a.out 
+ 1810  nano 11pt.c
+ 1811  gcc 11pt.c 
+ 1812  ./a.out 
+ 1813  nano 11pt.c
+ 1814  gcc 11pt.c 
+ 1815  ./a.out 
+ 1816  nano 11pt.c
+ 1817  gcc 11pt.c 
+ 1818  ./a.out 
+ 1819  nano 11pt.c
+ 1820  gcc 11pt.c 
+ 1821  ./a.out 
+ 1822  nano 11pt.c
+ 1823  gcc 11pt.c 
+ 1824  ./a.out 
+ 1825  nano 11pt.c
+ 1826  gcc 11pt.c 
+ 1827  nano 11pt.c
+ 1828  ./a.out 
+ 1829  nano 11pt.c
+ 1830  gcc 11pt.c 
+ 1831  ./a.out 
+ 1832  nano 11pt.c
+ 1833  gcc 11pt.c 
+ 1834  ./a.out 
+ 1835  nano 11pt.c
+ 1836  gcc 11pt.c 
+ 1837  ./a.out 
+ 1838  nano 11pt.c
+ 1839  gcc 11pt.c 
+ 1840  ./a.out 
+ 1841  nano 11pt.c
+ 1842  gcc 11pt.c 
+ 1843  ./a.out 
+ 1844  nano 11pt.c
+ 1845  gcc 11pt.c 
+ 1846  ./a.out 
+ 1847  nano 11pt.c
+ 1848  gcc 11pt.c 
+ 1849  ./a.out 
+ 1850  nano 11pt.c
+ 1851  gcc 11pt.c 
+ 1852  ./a.out 
+ 1853  nano 11pt.c
+ 1854  gcc 11pt.c 
+ 1855  nano 11pt.c
+ 1856  gcc 11pt.c 
+ 1857  ./a.out 
+ 1858  nano 11pt.c
+ 1859  gcc 11pt.c 
+ 1860  ./a.out 
+ 1861  nano 11pt.c
+ 1862  gcc 11pt.c 
+ 1863  ./a.out 
+ 1864  nano 11pt.c
+ 1865  gcc 11pt.c 
+ 1866  ./a.out 
+ 1867  nano 11pt.c
+ 1868  gcc 11pt.c 
+ 1869  ./a.out 
+ 1870  nano 11pt.c
+ 1871  gcc 11pt.c 
+ 1872  ./a.out 
+ 1873  nano 11pt.c
+ 1874  gcc 11pt.c 
+ 1875  ./a.out 
+ 1876  nano 11pt.c
+ 1877  gcc 11pt.c 
+ 1878  nano 11pt.c
+ 1879  gcc 11pt.c 
+ 1880  ./a.out 
+ 1881  nano 11pt.c
+ 1882  ./a.out 
+ 1883  nano 11pt.c
+ 1884  gcc 11pt.c 
+ 1885  nano 11pt.c
+ 1886  ./a.out 
+ 1887  nano 11pt.c
+ 1888  gcc 11pt.c 
+ 1889  nano 11pt.c
+ 1890  ./a.out 
+ 1891  nano 11pt.c
+ 1892  gcc 11pt.c 
+ 1893  ./a.out 
+ 1894  nano 11pt.c
+ 1895  gcc 11pt.c 
+ 1896  nano 11pt.c
+ 1897  gcc 11pt.c 
+ 1898  ./a.out 
+ 1899  nano data.txt 
+ 1900  nano 11pt.c
+ 1901  gcc 11pt.c 
+ 1902  ./a.out 
+ 1903  nano data
+ 1904  nano data.txt 
+ 1905  gcc 11pt.c 
+ 1906  nano 11pt.c
+ 1907  gcc 11pt.c 
+ 1908  ./a.out 
+ 1909  cat data.txt 
+ 1910  ./a.out 
+ 1911  nano data.txt 
+ 1912  ls
+ 1913  mv plot_fwrite.c pt9plotter.c
+ 1914  mv 11pt.c pt9a.c
+ 1915  mv pt9.c pt9outline.c
+ 1916  mv pt9a.c pt9.c
+ 1917  cd git_env/
+ 1918  cd RTR-105/
+ 1919  ls
+ 1920  nano pt9.sh
+ 1921  ls
+ 1922  chmod 744 pt9.sh
+ 1923  ls
+ 1924  ./pt9.sh
+ 1925  nano pt9.sh
+ 1926  ./pt9.sh
+ 1927  gcc pt9.c -o pt9.out
+ 1928  ./pt9.sh
+ 1929  nano data.txt 
+ 1930  nano pt9.sh
+ 1931  ./pt9.sh
+ 1932  nano pt9.sh
+ 1933  ./pt9.sh
+ 1934  nano pt9.sh
+ 1935  ./pt9.sh
+ 1936  ./pt9.out
+ 1937  cat data.txt 
+ 1938  pt9.sh
+ 1939  ./pt9.sh
+ 1940  nano pt9.sh
+ 1941  ./pt9.sh
+ 1942  nano pt9.sh
+ 1943  nano plot1.gp 
+ 1944  nano pt9.sh
+ 1945  ./pt9.sh
+ 1946  nano pt9.sh
+ 1947  nano plot1.gp 
+ 1948  ./pt9.sh
+ 1949  nano plot1.gp 
+ 1950  ./pt9.sh
+ 1951  nano pt9.sh
+ 1952  ./pt9.sh
+ 1953  nano pt9.sh
+ 1954  ./pt9.sh
+ 1955  nano pt9.sh
+ 1956  gnuplot
+ 1957  ./pt9.sh
+ 1958  nano pt9.sh
+ 1959  ./pt9.sh
+ 1960  gnuplot plot1.gp 
+ 1961  nano plot1.gp 
+ 1962  gnuplot plot1.gp 
+ 1963  nano pt9.sh
+ 1964  ./pt9.sh
+ 1965  export DISPLAY=:0
+ 1966  ./pt9.sh
+ 1967  cd git_env/RTR-105/
+ 1968  ./pt9.sh
+ 1969  ls
+ 1970  nano asciichk.c 
+ 1971  gcc asciichk.c
+ 1972  ./a.out 
+ 1973  nano asciichk.c 
+ 1974  rm a.out 
+ 1975  ls
+ 1976  nano errorphy.c
+ 1977  gcc errorphy.c 
+ 1978  nano errorphy.c
+ 1979  gcc errorphy.c 
+ 1980  ./
+ 1981  ./a.out 
+ 1982  nano errorphy.c
+ 1983  gcc errorphy.c 
+ 1984  ./a.out 
+ 1985  nano errorphy.c
+ 1986  gcc errorphy.c 
+ 1987  ./a.out 
+ 1988  nano errorphy.c
+ 1989  gcc errorphy.c 
+ 1990  nano errorphy.c
+ 1991  ./a.out 
+ 1992  nano errorphy.c
+ 1993  gcc errorphy.c 
+ 1994  ./a.out 
+ 1995  nano fire_safety.c
+ 1996  exit
+ 1997  cd git_env/RTR-105/
+ 1998  ls
+ 1999  cd works/1lw_series/
+ 2000  ls
+ 2001  mkdir study
+ 2002  mv 1tylr.c study/
+ 2003  mv 2tylr.c study/
+ 2004  mv 3tylr.c study/
+ 2005  mv 4tylr.c study/
+ 2006  mv 5tylr.c study/
+ 2007  mv final_tylr.c study/
+ 2008  ls
+ 2009  rm a.out 
+ 2010  mv outline.c task_outline.c 
+ 2011  ls
+ 2012  nano 1func.c
+ 2013  cd study/
+ 2014  cp final_tylr.c tylr.c
+ 2015  mv tylr.c ..
+ 2016  cd ..
+ 2017  ls
+ 2018  nano tylr.c 
+ 2019  cd study/
+ 2020  ls
+ 2021  nano final_tylr.c 
+ 2022  gcc final_tylr.c 
+ 2023  gcc final_tylr.c -lm
+ 2024  ./a.out 
+ 2025  nano final_tylr.c 
+ 2026  gcc final_tylr.c -lm
+ 2027  ./a.out 
+ 2028  nano final_tylr.c 
+ 2029  gcc final_tylr.c -lm
+ 2030  ./a.out 
+ 2031  nano final_tylr.c 
+ 2032  gcc final_tylr.c -lm
+ 2033  ./a.out 
+ 2034  cd ..
+ 2035  nano tylr.c 
+ 2036  gcc tylr.c -lm
+ 2037  nano tylr.c 
+ 2038  gcc tylr.c -lm
+ 2039  ./a.out 
+ 2040  nano tylr.c 
+ 2041  gcc tylr.c -lm
+ 2042  ./a.out 
+ 2043  nano tylr.c 
+ 2044  cd study/
+ 2045  ls
+ 2046  cp final_tylr.c prnt.c
+ 2047  nano prnt.c 
+ 2048  ./a.out 
+ 2049  ls
+ 2050  nano prnt.c 
+ 2051  gcc prnt.c -lm
+ 2052  ./a.out 
+ 2053  nano prnt.c 
+ 2054  gcc prnt.c -lm
+ 2055  ./a.out 
+ 2056  nano prnt.c 
+ 2057  gcc prnt.c -lm
+ 2058  nano prnt.c 
+ 2059  gcc prnt.c -lm
+ 2060  ./a.out 
+ 2061  nano prnt.c 
+ 2062  cd ..
+ 2063  ls
+ 2064  mv task_outline.c outline_task.c
+ 2065  nano tylr.c 
+ 2066  gcc tylr.c -lm
+ 2067  ./a.out 
+ 2068  nano tylr.c 
+ 2069  gcc tylr.c -lm
+ 2070  ./a.out 
+ 2071  nano tylr.c 
+ 2072  gcc tylr.c -lm
+ 2073  nano tylr.c 
+ 2074  gcc tylr.c -lm
+ 2075  ./a.out 
+ 2076  nano tylr.c 
+ 2077  gcc tylr.c -lm
+ 2078  ./a.out 
+ 2079  nano tylr.c 
+ 2080  gcc tylr.c -lm
+ 2081  ./a.out 
+ 2082  nano tylr.c 
+ 2083  gcc tylr.c -lm
+ 2084  ./a.out 
+ 2085  nano tylr.c 
+ 2086  gcc tylr.c -lm
+ 2087  ./a.out 
+ 2088  nano tylr.c 
+ 2089  gcc tylr.c -lm
+ 2090  ./a.out 
+ 2091  nano tylr.c 
+ 2092  gcc tylr.c -lm
+ 2093  ./a.out 
+ 2094  nano tylr.c 
+ 2095  gcc tylr.c -lm
+ 2096  ./a.out 
+ 2097  nano tylr.c 
+ 2098  gcc tylr.c -lm
+ 2099  ./a.out 
+ 2100  nano tylr.c 
+ 2101  gcc tylr.c -lm
+ 2102  ./a.out 
+ 2103  nano tylr.c 
+ 2104  ./a.out 
+ 2105  gcc tylr.c -lm
+ 2106  ./a.out 
+ 2107  nano tylr.c 
+ 2108  gcc tylr.c -lm
+ 2109  ./a.out 
+ 2110  gcc tylr.c -lm
+ 2111  nano tylr.c 
+ 2112  gcc tylr.c -lm
+ 2113  ./a.out 
+ 2114  nano tylr.c 
+ 2115  gcc tylr.c -lm
+ 2116  ./a.out 
+ 2117  nano 1func.c 
+ 2118  nano tylr.c 
+ 2119  gcc tylr.c -lm
+ 2120  nano tylr.c 
+ 2121  gcc tylr.c -lm
+ 2122  ./a.out 
+ 2123  nano tylr.c 
+ 2124  ls
+ 2125  cd study/
+ 2126  ls
+ 2127  mv 1tylr.c 1tylr_sin.c
+ 2128  mv 2tylr.c 2tylr_sin.c
+ 2129  mv 3tylr.c 3tylr_sin.c
+ 2130  mv 4tylr.c 4tylr_sin.c
+ 2131  mv 5tylr.c 5tylr_sin.c
+ 2132  ls
+ 2133  cd ..
+ 2134  ls
+ 2135  rm 1func.c 
+ 2136  mv 1tylr_fun.c 
+ 2137  mv tylr.c 1tylr_fun.c 
+ 2138  ls
+ 2139  cp 1tylr_fun.c 1tylr_cos.c 
+ 2140  mv 1tylr_cos.c tylr_cos.c
+ 2141  nano outline_task.c 
+ 2142  nano tylr_cos.c 
+ 2143  gcc tylr_cos.c -lm
+ 2144  nano tylr_cos.c 
+ 2145  gcc tylr_cos.c -lm
+ 2146  nano tylr_cos.c 
+ 2147  gcc tylr_cos.c -lm
+ 2148  ./
+ 2149  ./a.out 
+ 2150  nano tylr_cos.c 
+ 2151  gcc tylr_cos.c -lm
+ 2152  ./a.out 
+ 2153  nano tylr_cos.c 
+ 2154  gcc tylr_cos.c -lm
+ 2155  ./a.out 
+ 2156  nano tylr_cos.c 
+ 2157  gcc tylr_cos.c -lm
+ 2158  nano tylr_cos.c 
+ 2159  gcc tylr_cos.c -lm
+ 2160  ./a.out 
+ 2161* 
+ 2162  gcc tylr_cos.c -lm
+ 2163  nano tylr_cos.c 
+ 2164  gcc tylr_cos.c -lm
+ 2165  nano tylr_cos.c 
+ 2166  gcc tylr_cos.c -lm
+ 2167  ./a.out 
+ 2168  history > history_20201204.txt

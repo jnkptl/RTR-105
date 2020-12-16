@@ -18,6 +18,10 @@ fwrite -
 fread -
 
 fclose() - close file
+
+fflush(stdout) - ??
+
+perror - print error
 */
 // write text file directly - then ask user to enter a
 // word to find in entire file and try to write an algorithm
@@ -62,7 +66,7 @@ void output1()
 	FILE *fp;
 	char ch,buffer[N];
 
-	//"r" - reading, "w" - writing, "a", "r+" - file exists and can be opened to edit, "w+", "a+"
+	//"r" - read, "w" - write, "a" - append, "r+" - read / update, "w+" write / update, "a+" - append  / update
 	fp=fopen("text.data","r"); // "r","w", "a", "r+", "w+", "a+", + "t" or "b"
 
 	if(fp==NULL)

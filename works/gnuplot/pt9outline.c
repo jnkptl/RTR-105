@@ -19,7 +19,12 @@
 	 2.00	4.00
 
 then shell script will start plot.gp (in gnuplot)
-	plot.gp shouls plot data from data.txt with all information
+		plot f(x)=x*x in [-10;10]
+		add x-axis label
+		add y-axis label
+		add title
+		add legend
+	plot.gp should plot data from data.txt with all information
 */
 
 // shell starts executable

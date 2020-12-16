@@ -12,16 +12,16 @@ void strings()
 	char first_string[8] = "abcdefg";
 	char second_string[4] = "ijk";
 	char *third_string = "abcdefg";
-	int length = 0;
 	char *work_pointer = third_string;
+	int length = 0;
 	int eg;
 	printf("please select example (1 or 2): ");
 	scanf(" %i",&eg);
 	switch(eg){
 	case 1:
-	// compiler always uses '\0' as last element (end of line)
-	// that is why 7 (from 0th until 6th) symbols we see and last one (the 7th) is '\0'
-	// char first_string[8] = "abcdefg"; - would be logical error - wewrite as 7th - 'h'
+	// compiler always uses '\0' (NULL) as last element (end of line)
+	// that is why we only see elements 0 to 6 - last one (first_string[7]) is '\0'
+	// char first_string[8] = "abcdefg"; - would be logical error - we write as 7th - 'h'
 	// and compiler puts as 8th (outside memory reserved for first string) '\0'
 	printf("address (pointer) of an array: %p\n",first_string);
 	printf("size of first string - %lu bytes in %lu elements\n",sizeof(first_string),sizeof(first_string)/sizeof(char));
