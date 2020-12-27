@@ -1,13 +1,13 @@
 /*
 write program which calculates and displays:
-- expression of taylor series of your function (ASCII drawing)
++ expression of taylor series of your function (ASCII drawing)
 - function definition area values in the form of a text comment
-- expression of recurrence factor of Taylor series of your function (ASCII drawing)
-- dialogue with user for obtaining value of x
-- value of penultimate term 'h' (cannot be 0)
-- value of last term 'i' (cannot be 0)
-- calculate and show value of function f(x), using Taylor series
-- calculate and show value of function f(x), using function
++ expression of recurrence factor of Taylor series of your function (ASCII drawing)
++ dialogue with user for obtaining value of x
++ value of penultimate term 'h' (cannot be 0)
++ value of last term 'i' (cannot be 0)
++ calculate and show value of function f(x), using Taylor series
++ calculate and show value of function f(x), using function
 
 upload to github figure of your function (use gnuplot)
 Append report [nano works/1lw_series/README.md] (eg of md file: outside and inside, add link to picture of function)
@@ -32,14 +32,14 @@ f(x)=cos^2(x/2)
  a500 = [last value]
  cos(x/2)cos(x/2) via user function ->
 
-              500
-	    ________
-            \             n       2n           n       2n
-             \        (-1) * (x/2)         (-1) * (x/2)
-cos^2(x/2) =  >      ________________  *  _______________
-	     /
-	    /_______     (2n)!                 (2n)!
-              n=0
+              	   	    500
+	   	 	 ________
+           	 	 \             n     2*n
+              1	       1  \        (-1) * (x)
+cos^2(x/2) = ___  +   ___  >      ________________
+	      2	       2  /
+	    	 	 /_______     (2*n)!
+              	   	     n=0
 
 
  Recurrence multiplier:
