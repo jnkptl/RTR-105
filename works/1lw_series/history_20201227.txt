@@ -1,0 +1,1000 @@
+ 1219  nano 2tylr_fun.c 
+ 1220  gcc 2tylr_fun.c -lm
+ 1221  ./a.out 
+ 1222  nano 2tylr_fun.c 
+ 1223  gcc 2tylr_fun.c -lm
+ 1224  ./a.out 
+ 1225  nano 2tylr_fun.c 
+ 1226  nano 1tylr_fun.c 
+ 1227  gcc 1tylr_fun.c -lm
+ 1228  nano 1tylr_fun.c 
+ 1229  ./a.out 
+ 1230  nano 2tylr_fun.c 
+ 1231  gcc 2tylr_fun.c -lm
+ 1232  nano 2tylr_fun.c 
+ 1233  nano
+ 1234  ./a.out 
+ 1235  nano 2tylr_fun.c 
+ 1236  nano 1tylr_fun.c 
+ 1237  gcc 1tylr_fun.c -lm
+ 1238  ./a.out 
+ 1239  nano 1tylr_fun.c 
+ 1240  gcc 1tylr_fun.c -lm
+ 1241  ./a.out 
+ 1242  nano 1tylr_fun.c 
+ 1243  gcc 1tylr_fun.c -lm
+ 1244  nano 1tylr_fun.c 
+ 1245  gcc 1tylr_fun.c -lm
+ 1246  ./a.out 
+ 1247  nano 1tylr_fun.c 
+ 1248  gcc 1tylr_fun.c -lm
+ 1249  nano 1tylr_fun.c 
+ 1250  gcc 1tylr_fun.c -lm
+ 1251  ./a.out 
+ 1252  nano 1tylr_fun.c 
+ 1253  gcc 1tylr_fun.c -lm
+ 1254  ./a.out 
+ 1255  ls
+ 1256  nano outline_task.c 
+ 1257  nano tylr_cos.c 
+ 1258  gcc tylr_cos.c 
+ 1259  gcc tylr_cos.c -lm
+ 1260  ./a.out 
+ 1261  nano tylr_cos.c 
+ 1262  gcc tylr_cos.c -lm
+ 1263  ./a.out 
+ 1264  nano tylr_cos.c 
+ 1265  gcc tylr_cos.c -lm
+ 1266  ./a.out 
+ 1267  ls
+ 1268  ./a
+ 1269  ./a.out 
+ 1270  rm a.out 
+ 1271  rm errorphy.c 
+ 1272  mv fire_safety.c fire_safety.txt
+ 1273  ls
+ 1274  nano logic_and.c 
+ 1275  mv logic_and.c git_env/RTR-105/study/
+ 1276  nano factorial.c 
+ 1277  mv factorial.c git_env/RTR-105/study/
+ 1278  nano data_range.c 
+ 1279  mv data_range.c git_env/RTR-105/study/
+ 1280  mv hello.c git_env/RTR-105/study/
+ 1281  ls
+ 1282  nano asciichk.c 
+ 1283  cd git_env/RTR-105/
+ 1284  ls
+ 1285  cd study/
+ 1286  ls
+ 1287  nano asciichk.c 
+ 1288  cd ../../..
+ 1289  ls
+ 1290  nano pt4.c 
+ 1291  gcc pt4.c
+ 1292  ./a.out 
+ 1293  rm a.out 
+ 1294  rm pt4.c 
+ 1295  ls
+ 1296  rm asciichk.c 
+ 1297  ls
+ 1298  cd git_env/RTR-105/works/1lw_series/
+ 1299  ls
+ 1300  nano 2tylr_fun.c 
+ 1301  nano 1tylr_fun.c 
+ 1302  ./a.out 
+ 1303  gcc 1tylr_fun.c -lm
+ 1304  ./a.out 
+ 1305  gcc 2tylr_fun.c -lm
+ 1306  ./a.out 
+ 1307  nano final_tyler_fun.c
+ 1308  gcc final_tyler_fun.c -lm
+ 1309  nano final_tyler_fun.c
+ 1310  gcc final_tyler_fun.c -lm
+ 1311  ./a.out 
+ 1312  nano final_tyler_fun.c
+ 1313  gcc final_tyler_fun.c -lm
+ 1314  ./a.out 
+ 1315  nano final_tyler_fun.c
+ 1316  cd git_env/RTR-105/works/1lw_series/
+ 1317  ls
+ 1318  ./a.out 
+ 1319  nano final_tyler_fun.c 
+ 1320  nano 1tylr_fun.c 
+ 1321  gcc 1tylr_fun.c -lm
+ 1322  ./a.out 
+ 1323  nano final_tyler_fun.c 
+ 1324  nano 1tylr_fun.c 
+ 1325  gcc 1tylr_fun.c -lm
+ 1326  nano 1tylr_fun.c 
+ 1327  gcc 1tylr_fun.c -lm
+ 1328  ./a.out 
+ 1329  nano 1tylr_fun.c 
+ 1330  gcc 1tylr_fun.c -lm
+ 1331  ./a.out 
+ 1332  nano 1tylr_fun.c 
+ 1333  nano final_tyler_fun.c 
+ 1334  gcc final_tyler_fun.c -lm
+ 1335  nano final_tyler_fun.c 
+ 1336  gcc final_tyler_fun.c -lm
+ 1337  ./a.out 
+ 1338  nano final_tyler_fun.c 
+ 1339  gcc final_tyler_fun.c -lm
+ 1340  ./a.out 
+ 1341  nano final_tyler_fun.c 
+ 1342  gcc final_tyler_fun.c -lm
+ 1343  ./a.out 
+ 1344  nano final_tyler_fun.c 
+ 1345  gcc final_tyler_fun.c -lm
+ 1346  ./a.out 
+ 1347  nano final_tyler_fun.c 
+ 1348  gcc final_tyler_fun.c -lm
+ 1349  ./a.out 
+ 1350  nano final_tyler_fun.c 
+ 1351  gcc final_tyler_fun.c -lm
+ 1352  nano final_tyler_fun.c 
+ 1353  gcc final_tyler_fun.c -lm
+ 1354  ./a.out 
+ 1355  nano final_tyler_fun.c 
+ 1356  gcc final_tyler_fun.c -lm
+ 1357  ./a.out 
+ 1358  nano final_tyler_fun.c 
+ 1359  gcc final_tyler_fun.c -lm
+ 1360  ./a.out 
+ 1361  nano final_tyler_fun.c 
+ 1362  gcc final_tyler_fun.c -lm
+ 1363  ./a.out 
+ 1364  nano final_tyler_fun.c 
+ 1365  gcc final_tyler_fun.c -lm
+ 1366  ./a.out 
+ 1367  nano final_tyler_fun.c 
+ 1368  gcc final_tyler_fun.c -lm
+ 1369  nano final_tyler_fun.c 
+ 1370  gcc final_tyler_fun.c -lm
+ 1371  nano final_tyler_fun.c 
+ 1372  gcc final_tyler_fun.c -lm
+ 1373  nano final_tyler_fun.c 
+ 1374  gcc final_tyler_fun.c -lm
+ 1375  ./a.out 
+ 1376  nano final_tyler_fun.c 
+ 1377  gcc final_tyler_fun.c -lm
+ 1378  nano final_tyler_fun.c 
+ 1379  gcc final_tyler_fun.c -lm
+ 1380  ./a.out 
+ 1381  nano final_tyler_fun.c 
+ 1382  gcc final_tyler_fun.c -lm
+ 1383  ./a.out 
+ 1384  nano final_tyler_fun.c 
+ 1385  gcc final_tyler_fun.c -lm
+ 1386  ./a.out 
+ 1387  nano final_tyler_fun.c 
+ 1388  gcc final_tyler_fun.c -lm
+ 1389  ./a.out 
+ 1390  nano final_tyler_fun.c 
+ 1391  gcc final_tyler_fun.c -lm
+ 1392  ./a.out 
+ 1393  nano final_tyler_fun.c 
+ 1394  gcc final_tyler_fun.c -lm
+ 1395  ./a.out 
+ 1396  nano final_tyler_fun.c 
+ 1397  gcc final_tyler_fun.c -lm
+ 1398  ./a.out 
+ 1399  nano final_tyler_fun.c 
+ 1400  gcc final_tyler_fun.c -lm
+ 1401  ./a.out 
+ 1402  nano final_tyler_fun.c 
+ 1403  gcc final_tyler_fun.c -lm
+ 1404  nano final_tyler_fun.c 
+ 1405  gcc final_tyler_fun.c -lm
+ 1406  ./a.out 
+ 1407  nano final_tyler_fun.c 
+ 1408  gcc final_tyler_fun.c -lm
+ 1409  ./a.out 
+ 1410  nano final_tyler_fun.c 
+ 1411  gcc final_tyler_fun.c -lm
+ 1412  ./a.out 
+ 1413  cd git_env/RTR-105/works/1lw_series/
+ 1414  ls
+ 1415  nano 1tylr_fun.c 
+ 1416  gcc 1tylr_fun.c -lm
+ 1417  nano 1tylr_fun.c 
+ 1418  gcc 1tylr_fun.c -lm
+ 1419  nano 1tylr_fun.c 
+ 1420  gcc 1tylr_fun.c -lm
+ 1421  ./a.out 
+ 1422  nano final_tyler_fun.c 
+ 1423  nano outline_task.c 
+ 1424  nano final_tyler_fun.c 
+ 1425  mv final_tyler_fun.c 0tyler_fun.c 
+ 1426  ls
+ 1427  nano 2tylr_fun.c 
+ 1428  nano 1tylr_fun.c 
+ 1429  gcc 1tylr_fun.c -lm
+ 1430  nano 1tylr_fun.c 
+ 1431  gcc 1tylr_fun.c -lm
+ 1432  nano 1tylr_fun.c 
+ 1433  gcc 1tylr_fun.c -lm
+ 1434  ./a.out 
+ 1435  nano 1tylr_fun.c 
+ 1436  gcc 1tylr_fun.c -lm
+ 1437  ./a.out 
+ 1438  nano 1tylr_fun.c 
+ 1439  gcc 1tylr_fun.c -lm
+ 1440  ./a.out 
+ 1441  nano 1tylr_fun.c 
+ 1442  gcc 1tylr_fun.c -lm
+ 1443  ./a.out 
+ 1444  nano 1tylr_fun.c 
+ 1445  gcc 1tylr_fun.c -lm
+ 1446  ./a.out 
+ 1447  nano 1tylr_fun.c 
+ 1448  gcc 1tylr_fun.c -lm
+ 1449  ./a.out 
+ 1450  nano 1tylr_fun.c 
+ 1451  gcc 1tylr_fun.c -lm
+ 1452  ./a.out 
+ 1453  nano 1tylr_fun.c 
+ 1454  gcc 1tylr_fun.c -lm
+ 1455  ./a.out 
+ 1456  nano 1tylr_fun.c 
+ 1457  gcc 1tylr_fun.c -lm
+ 1458  nano 1tylr_fun.c 
+ 1459  gcc 1tylr_fun.c -lm
+ 1460  nano 1tylr_fun.c 
+ 1461  gcc 1tylr_fun.c -lm
+ 1462  nano 1tylr_fun.c 
+ 1463  gcc 1tylr_fun.c -lm
+ 1464  ./a.out 
+ 1465  nano 1tylr_fun.c 
+ 1466  gcc 1tylr_fun.c -lm
+ 1467  ./a.out 
+ 1468  nano 1tylr_fun.c 
+ 1469  gcc 1tylr_fun.c -lm
+ 1470  nano 1tylr_fun.c 
+ 1471  gcc 1tylr_fun.c -lm
+ 1472  ./a.out 
+ 1473  nano 1tylr_fun.c 
+ 1474  gcc 1tylr_fun.c -lm
+ 1475  ./a.out 
+ 1476  nano 1tylr_fun.c 
+ 1477  gcc 1tylr_fun.c -lm
+ 1478  ./a.out 
+ 1479  nano 1tylr_fun.c 
+ 1480  gcc 1tylr_fun.c -lm
+ 1481  ./a.out 
+ 1482  nano 1tylr_fun.c 
+ 1483  gcc 1tylr_fun.c -lm
+ 1484  ./a.out 
+ 1485  nano 1tylr_fun.c 
+ 1486  gcc 1tylr_fun.c -lm
+ 1487  nano 1tylr_fun.c 
+ 1488  gcc 1tylr_fun.c -lm
+ 1489  ./a.out 
+ 1490  nano 1tylr_fun.c 
+ 1491  gcc 1tylr_fun.c -lm
+ 1492  ./a.out 
+ 1493  nano 1tylr_fun.c 
+ 1494  gcc 1tylr_fun.c -lm
+ 1495  ./a.out 
+ 1496  nano 1tylr_fun.c 
+ 1497  gcc 1tylr_fun.c -lm
+ 1498  ./a.out 
+ 1499  nano 1tylr_fun.c 
+ 1500  gcc 1tylr_fun.c -lm
+ 1501  ./a.out 
+ 1502  nano 1tylr_fun.c 
+ 1503  gcc 1tylr_fun.c -lm
+ 1504  ./a.out 
+ 1505  nano 1tylr_fun.c 
+ 1506  gcc 1tylr_fun.c -lm
+ 1507  ./a.out 
+ 1508  nano 1tylr_fun.c 
+ 1509  gcc 1tylr_fun.c -lm
+ 1510  ./a.out 
+ 1511  nano 1tylr_fun.c 
+ 1512  gcc 1tylr_fun.c -lm
+ 1513  ./a.out 
+ 1514  nano 1tylr_fun.c 
+ 1515  gcc 1tylr_fun.c -lm
+ 1516  ./a.out 
+ 1517  nano 1tylr_fun.c 
+ 1518  gcc 1tylr_fun.c -lm
+ 1519  ./a.out 
+ 1520  nano 1tylr_fun.c 
+ 1521  gcc 1tylr_fun.c -lm
+ 1522  ./a.out 
+ 1523  nano 1tylr_fun.c 
+ 1524  gcc 1tylr_fun.c -lm
+ 1525  ./a.out 
+ 1526  nano 1tylr_fun.c 
+ 1527  cd git_env/RTR-105/
+ 1528  ls
+ 1529  cd works/
+ 1530  cd 1lw_series/
+ 1531  ls
+ 1532  nano 0tyler_fun.c 
+ 1533  nano 1tylr_fun.c 
+ 1534  nano 0tyler_fun.c 
+ 1535  nano 2tylr_fun.c 
+ 1536  cd~
+ 1537  cd ~
+ 1538  cd git_env/RTR-105/
+ 1539  gti status
+ 1540  git status
+ 1541  git push
+ 1542  git commit
+ 1543  sudo git push 
+ 1544  git
+ 1545  git status
+ 1546  git add /works
+ 1547  git add works/
+ 1548  git add study/
+ 1549  git status
+ 1550  git push
+ 1551  git commit
+ 1552  git push --force origin master
+ 1553  git merge
+ 1554  git rebase
+ 1555  git commit
+ 1556  git
+ 1557  git init
+ 1558  ls
+ 1559  git status 
+ 1560  git push
+ 1561  ls -all
+ 1562  git push --force
+ 1563  git rm asciichk.c
+ 1564  git rm arrays.c
+ 1565  git push --force
+ 1566  git commit
+ 1567  git rm text.data 
+ 1568  git rm fun_fact.c 
+ 1569  git rm functions.c 
+ 1570  git rm hello.c 
+ 1571  git rm numerals.c 
+ 1572  git rm operator1.c 
+ 1573  git rm operator2.c 
+ 1574  git rm outputfromfile.c 
+ 1575  git rm outputtofile.c 
+ 1576  git rm plot1.gp 
+ 1577  git rm pointers.c 
+ 1578  git status
+ 1579  git rm pt7.c 
+ 1580  git rm pt9.c 
+ 1581  git rm pt9outline.c 
+ 1582  git rm pt9.sh 
+ 1583  git status
+ 1584  git rebase
+ 1585  git commit
+ 1586  git push --force
+ 1587  git push origin head
+ 1588  git push origin HEAD
+ 1589  git update
+ 1590  git
+ 1591  git commit -m "organise"
+ 1592  git push
+ 1593  git status
+ 1594  cd study/
+ 1595  ls
+ 1596  cd ..
+ 1597  cd git_env/RTR-105/works/
+ 1598  git mv gnuplot/ ~/git_env/RTR-105/study/
+ 1599  git push
+ 1600  git status
+ 1601  ls
+ 1602  git commit -m "organise"
+ 1603  git push
+ 1604  cd 1lw_series/
+ 1605  git mv study/ case_study/
+ 1606  git commit -m "organise"
+ 1607  git push
+ 1608  cd git_env/RTR-105/
+ 1609  ls
+ 1610  cd works/1lw_series/
+ 1611  ls
+ 1612  nano 1tylr_fun.c 
+ 1613  ./a.out 
+ 1614  nano 1tylr_fun.c 
+ 1615  nano 0tyler_fun.c 
+ 1616  nano 1tylr_fun.c 
+ 1617  gcc 1tylr_fun.c -lm
+ 1618  ./a.out 
+ 1619  nano 1tylr_fun.c 
+ 1620  gcc 1tylr_fun.c -lm
+ 1621  ./a.out 
+ 1622  nano 1tylr_fun.c 
+ 1623  gcc 1tylr_fun.c -lm
+ 1624  ./a.out 
+ 1625  nano 1tylr_fun.c 
+ 1626  gcc 1tylr_fun.c -lm
+ 1627  ./a.out 
+ 1628  nano 1tylr_fun.c 
+ 1629  gcc 1tylr_fun.c -lm
+ 1630  ./a.out 
+ 1631  nano 1tylr_fun.c 
+ 1632  gcc 1tylr_fun.c -lm
+ 1633  ./a.out 
+ 1634  nano 1tylr_fun.c 
+ 1635  gcc 1tylr_fun.c -lm
+ 1636  ./a.out 
+ 1637  nano 1tylr_fun.c 
+ 1638  gcc 1tylr_fun.c -lm
+ 1639  ./a.out 
+ 1640  nano 1tylr_fun.c 
+ 1641  gcc 1tylr_fun.c -lm
+ 1642  ./a.out 
+ 1643  nano 1tylr_fun.c 
+ 1644  gcc 1tylr_fun.c -lm
+ 1645  ./a.out 
+ 1646  nano 1tylr_fun.c 
+ 1647  gcc 1tylr_fun.c -lm
+ 1648  ./a.out 
+ 1649  nano 1tylr_fun.c 
+ 1650  gcc 1tylr_fun.c -lm
+ 1651  ./a.out 
+ 1652  nano 1tylr_fun.c 
+ 1653  gcc 1tylr_fun.c -lm
+ 1654  ./a.out 
+ 1655  nano 1tylr_fun.c 
+ 1656  gcc 1tylr_fun.c -lm
+ 1657  ./a.out 
+ 1658  nano 1tylr_fun.c 
+ 1659  gcc 1tylr_fun.c -lm
+ 1660  ./a.out 
+ 1661  nano 1tylr_fun.c 
+ 1662  gcc 1tylr_fun.c -lm
+ 1663  ./a.out 
+ 1664  ls
+ 1665  nano 2tylr_fun.c 
+ 1666  cp 1tylr_fun.c 2tylr_fun.c 
+ 1667  nano 2tylr_fun.c 
+ 1668  gcc 2tylr_fun.c -lm
+ 1669  nano 2tylr_fun.c 
+ 1670  gcc 2tylr_fun.c -lm
+ 1671  ./a.out 
+ 1672  nano 2tylr_fun.c 
+ 1673  gcc 2tylr_fun.c -lm
+ 1674  ./a.out 
+ 1675  nano 2tylr_fun.c 
+ 1676  gcc 2tylr_fun.c -lm
+ 1677  ./a.out 
+ 1678  nano 2tylr_fun.c 
+ 1679  gcc 2tylr_fun.c -lm
+ 1680  ./a.out 
+ 1681  nano 2tylr_fun.c 
+ 1682  gcc 2tylr_fun.c -lm
+ 1683  ./a.out 
+ 1684  nano 2tylr_fun.c 
+ 1685  gcc 2tylr_fun.c -lm
+ 1686  ./a.out 
+ 1687  nano 2tylr_fun.c 
+ 1688  gcc 2tylr_fun.c -lm
+ 1689  ./a.out 
+ 1690  nano 2tylr_fun.c 
+ 1691  gcc 2tylr_fun.c -lm
+ 1692  ./a.out 
+ 1693  nano 2tylr_fun.c 
+ 1694  gcc 2tylr_fun.c -lm
+ 1695  ./a.out 
+ 1696  nano 2tylr_fun.c
+ 1697  gcc 2tylr_fun.c -lm
+ 1698  ./a.out 
+ 1699  gcc 1tylr_fun.c -lm
+ 1700  ./a.out 
+ 1701  gcc 2tylr_fun.c -lm
+ 1702  ./a.out 
+ 1703  cd git_env/RTR-105/
+ 1704  ls
+ 1705  cd study/
+ 1706  ls
+ 1707  nano derivative.c
+ 1708  cp derivative.c derivative2.c 
+ 1709  nano derivative2.c 
+ 1710  cd ..
+ 1711  nano works/
+ 1712  fg
+ 1713  cd works/
+ 1714  ls
+ 1715  mkdir 3lw_series
+ 1716  nano 1deriv.c
+ 1717  mv 1deriv.c 3lw_series/
+ 1718  ls
+ 1719  cd 3lw_series/
+ 1720  ls
+ 1721  gcc 1deriv.c -lm
+ 1722  nano 1deriv.c 
+ 1723  cp 1deriv.c 3deriv.c 
+ 1724  nano 3deriv.c 
+ 1725  gcc 3deriv.c -lm
+ 1726  nano 3deriv.c 
+ 1727  gcc 3deriv.c -lm
+ 1728  nano 3deriv.c 
+ 1729  gcc 3deriv.c -lm
+ 1730  ./a.out 
+ 1731  nano 3deriv.c 
+ 1732  gcc 3deriv.c -lm
+ 1733  ./a.out 
+ 1734  nano 3deriv.c 
+ 1735  ls
+ 1736  cd git_env/RTR-105/
+ 1737  ls
+ 1738  cd works/1lw_series/
+ 1739  ls
+ 1740  nano 2tylr_fun.c 
+ 1741  gcc 2tylr_fun.c -lm
+ 1742  ./a.out 
+ 1743  nano 2tylr_fun.c 
+ 1744  gcc 2tylr_fun.c -lm
+ 1745  ./a.out 
+ 1746  nano 2tylr_fun.c 
+ 1747  gcc 2tylr_fun.c -lm
+ 1748  ./a.out 
+ 1749  nano 2tylr_fun.c 
+ 1750  gcc 2tylr_fun.c -lm
+ 1751  ./a.out 
+ 1752  nano 2tylr_fun.c 
+ 1753  gcc 2tylr_fun.c -lm
+ 1754  ./a.out 
+ 1755  nano 2tylr_fun.c 
+ 1756  gcc 2tylr_fun.c -lm
+ 1757  ./a.out 
+ 1758  nano 2tylr_fun.c 
+ 1759  nano 1tylr_fun.c 
+ 1760  cp 2tylr_fun.c 3tylr_fun.c 
+ 1761  nano 3tylr_fun.c 
+ 1762  gcc 3tylr_fun.c -lm
+ 1763  nano 3tylr_fun.c 
+ 1764  gcc 3tylr_fun.c -lm
+ 1765  ./a.out 
+ 1766  nano 3tylr_fun.c 
+ 1767  gcc 3tylr_fun.c -lm
+ 1768  nano 3tylr_fun.c 
+ 1769  gcc 3tylr_fun.c -lm
+ 1770  ./a.out 
+ 1771  nano 3tylr_fun.c 
+ 1772  gcc 3tylr_fun.c -lm
+ 1773  ./a.out 
+ 1774  nano 3tylr_fun.c 
+ 1775  gcc 3tylr_fun.c -lm
+ 1776  ./a.out 
+ 1777  nano 3tylr_fun.c 
+ 1778  gcc 3tylr_fun.c -lm
+ 1779  ./a.out 
+ 1780  nano 3tylr_fun.c 
+ 1781  gcc 3tylr_fun.c -lm
+ 1782  ./a.out 
+ 1783  nano 3tylr_fun.c 
+ 1784  gcc 3tylr_fun.c -lm
+ 1785  ./a.out 
+ 1786  nano 3tylr_fun.c 
+ 1787  cp 3tylr_fun.c 4tylr_fun.c 
+ 1788  nano 4tylr_fun.c 
+ 1789  gcc 3tylr_fun.c -lm
+ 1790  gcc 4tylr_fun.c -lm
+ 1791  nano 4tylr_fun.c 
+ 1792  gcc 4tylr_fun.c -lm
+ 1793  nano 4tylr_fun.c 
+ 1794  gcc 4tylr_fun.c -lm
+ 1795  nano 4tylr_fun.c 
+ 1796  gcc 4tylr_fun.c -lm
+ 1797  ./a.out 
+ 1798  nano 4tylr_fun.c 
+ 1799  gcc 4tylr_fun.c -lm
+ 1800  ./a.out 
+ 1801  nano 4tylr_fun.c 
+ 1802  gcc 4tylr_fun.c -lm
+ 1803  ./a.out 
+ 1804  nano 4tylr_fun.c 
+ 1805  gcc 4tylr_fun.c -lm
+ 1806  ./a.out 
+ 1807  nano 4tylr_fun.c 
+ 1808  gcc 4tylr_fun.c -lm
+ 1809  ./a.out 
+ 1810  nano 4tylr_fun.c 
+ 1811  gcc 4tylr_fun.c -lm
+ 1812  ./a.out 
+ 1813  nano 4tylr_fun.c 
+ 1814  gcc 4tylr_fun.c -lm
+ 1815  ./a.out 
+ 1816  nano 4tylr_fun.c 
+ 1817  cp 4tylr_fun.c 5tylr_fun.c 
+ 1818  nano 5tylr_fun.c 
+ 1819  gcc 5tylr_fun.c -lm
+ 1820  ./a.out 
+ 1821  nano 5tylr_fun.c 
+ 1822  gcc 5tylr_fun.c -lm
+ 1823  nano 5tylr_fun.c 
+ 1824  gcc 5tylr_fun.c -lm
+ 1825  ./a.out 
+ 1826  nano 5tylr_fun.c 
+ 1827  ls
+ 1828  nano 5tylr_fun.c 
+ 1829  gcc 5tylr_fun.c -lm
+ 1830  nano 5tylr_fun.c 
+ 1831  gcc 5tylr_fun.c -lm
+ 1832  ./a.out 
+ 1833  nano 5tylr_fun.c 
+ 1834  gcc 5tylr_fun.c -lm
+ 1835  nano 5tylr_fun.c 
+ 1836  gcc 5tylr_fun.c -lm
+ 1837  ./a.out 
+ 1838  nano 5tylr_fun.c 
+ 1839  gcc 5tylr_fun.c -lm
+ 1840  ./a.out 
+ 1841  nano 5tylr_fun.c 
+ 1842  gcc 5tylr_fun.c -lm
+ 1843  ./a.out 
+ 1844  nano 5tylr_fun.c 
+ 1845  gcc 5tylr_fun.c -lm
+ 1846  ./a.out 
+ 1847  nano 5tylr_fun.c 
+ 1848  gcc 5tylr_fun.c -lm
+ 1849  ./a.out 
+ 1850  nano 5tylr_fun.c 
+ 1851  gcc 5tylr_fun.c -lm
+ 1852  ./a.out 
+ 1853  nano 5tylr_fun.c 
+ 1854  gcc 5tylr_fun.c -lm
+ 1855  ./a.out 
+ 1856  nano 5tylr_fun.c 
+ 1857  gcc 5tylr_fun.c -lm
+ 1858  ./a.out 
+ 1859  nano 5tylr_fun.c 
+ 1860  gcc 5tylr_fun.c -lm
+ 1861  ./a.out 
+ 1862  nano 5tylr_fun.c 
+ 1863  gcc 5tylr_fun.c -lm
+ 1864  ./a.out 
+ 1865  nano 5tylr_fun.c 
+ 1866  gcc 5tylr_fun.c -lm
+ 1867  ./a.out 
+ 1868  nano 5tylr_fun.c 
+ 1869  gcc 5tylr_fun.c -lm
+ 1870  ./a.out 
+ 1871  nano 5tylr_fun.c 
+ 1872  gcc 5tylr_fun.c -lm
+ 1873  ./a.out 
+ 1874  nano 5tylr_fun.c 
+ 1875  gcc 5tylr_fun.c -lm
+ 1876  ./a.out 
+ 1877  nano 5tylr_fun.c 
+ 1878  gcc 5tylr_fun.c -lm
+ 1879  ./a.out 
+ 1880  nano 5tylr_fun.c 
+ 1881  gcc 5tylr_fun.c -lm
+ 1882  ./a.out 
+ 1883  nano 5tylr_fun.c 
+ 1884  gcc 5tylr_fun.c -lm
+ 1885  ./a.out 
+ 1886  nano 5tylr_fun.c 
+ 1887  gcc 5tylr_fun.c -lm
+ 1888  ./a.out 
+ 1889  nano 5tylr_fun.c 
+ 1890  gcc 5tylr_fun.c -lm
+ 1891  ./a.out 
+ 1892  nano 5tylr_fun.c 
+ 1893  gcc 5tylr_fun.c -lm
+ 1894  nano 5tylr_fun.c 
+ 1895  gcc 5tylr_fun.c -lm
+ 1896  nano 5tylr_fun.c 
+ 1897  gcc 5tylr_fun.c -lm
+ 1898  nano 5tylr_fun.c 
+ 1899  gcc 5tylr_fun.c -lm
+ 1900  ./a.out 
+ 1901  nano 5tylr_fun.c 
+ 1902  gcc 5tylr_fun.c -lm
+ 1903  ./a.out 
+ 1904  nano 5tylr_fun.c 
+ 1905  gcc 5tylr_fun.c -lm
+ 1906  nano 5tylr_fun.c 
+ 1907  gcc 5tylr_fun.c -lm
+ 1908  nano 5tylr_fun.c 
+ 1909  gcc 5tylr_fun.c -lm
+ 1910  ./a.out 
+ 1911  nano 5tylr_fun.c 
+ 1912  gcc 5tylr_fun.c -lm
+ 1913  ./a.out 
+ 1914  nano 5tylr_fun.c 
+ 1915  gcc 5tylr_fun.c -lm
+ 1916  ./a.out 
+ 1917  nano 5tylr_fun.c 
+ 1918  gcc 5tylr_fun.c -lm
+ 1919  ./a.out 
+ 1920  nano 5tylr_fun.c 
+ 1921  gcc 5tylr_fun.c -lm
+ 1922  ./a.out 
+ 1923  nano 5tylr_fun.c 
+ 1924  gcc 5tylr_fun.c -lm
+ 1925  ./a.out 
+ 1926  nano 5tylr_fun.c 
+ 1927  gcc 5tylr_fun.c -lm
+ 1928  ./a.out 
+ 1929  nano 5tylr_fun.c 
+ 1930  gcc 5tylr_fun.c -lm
+ 1931  ./a.out 
+ 1932  nano 5tylr_fun.c 
+ 1933  gcc 5tylr_fun.c -lm
+ 1934  ./a.out 
+ 1935  nano 5tylr_fun.c 
+ 1936  gcc 5tylr_fun.c -lm
+ 1937  ./a.out 
+ 1938  nano 5tylr_fun.c 
+ 1939  gcc 5tylr_fun.c -lm
+ 1940  ./a.out 
+ 1941  nano 5tylr_fun.c 
+ 1942  gcc 5tylr_fun.c -lm
+ 1943  ./a.out 
+ 1944  nano 5tylr_fun.c 
+ 1945  gcc 5tylr_fun.c -lm
+ 1946  ./a.out 
+ 1947  nano 5tylr_fun.c 
+ 1948  gcc 5tylr_fun.c -lm
+ 1949  ./a.out 
+ 1950  nano 5tylr_fun.c 
+ 1951  gcc 5tylr_fun.c -lm
+ 1952  ./a.out 
+ 1953  nano 5tylr_fun.c 
+ 1954  gcc 5tylr_fun.c -lm
+ 1955  ./a.out 
+ 1956  nano 5tylr_fun.c 
+ 1957  gcc 5tylr_fun.c -lm
+ 1958  nano 5tylr_fun.c 
+ 1959  gcc 5tylr_fun.c -lm
+ 1960  ./a.out 
+ 1961  nano 5tylr_fun.c 
+ 1962  gcc 5tylr_fun.c -lm
+ 1963  ./a.out 
+ 1964  nano 5tylr_fun.c 
+ 1965  gcc 5tylr_fun.c -lm
+ 1966  ./a.out 
+ 1967  nano 5tylr_fun.c 
+ 1968  gcc 5tylr_fun.c -lm
+ 1969  ./a.out 
+ 1970  nano 5tylr_fun.c 
+ 1971  gcc 5tylr_fun.c -lm
+ 1972  ./a.out 
+ 1973  nano 5tylr_fun.c 
+ 1974  gcc 5tylr_fun.c -lm
+ 1975  ./a.out 
+ 1976  nano 5tylr_fun.c 
+ 1977  gcc 5tylr_fun.c -lm
+ 1978  ./a.out 
+ 1979  nano 5tylr_fun.c 
+ 1980  gcc 5tylr_fun.c -lm
+ 1981  ./a.out 
+ 1982  nano 5tylr_fun.c 
+ 1983  gcc 5tylr_fun.c -lm
+ 1984  ./a.out 
+ 1985  nano 5tylr_fun.c 
+ 1986  gcc 5tylr_fun.c -lm
+ 1987  ./a.out 
+ 1988  nano 5tylr_fun.c 
+ 1989  gcc 5tylr_fun.c -lm
+ 1990  ./a.out 
+ 1991  nano 5tylr_fun.c 
+ 1992  gcc 5tylr_fun.c -lm
+ 1993  ./a.out 
+ 1994  nano 5tylr_fun.c 
+ 1995  gcc 5tylr_fun.c -lm
+ 1996  ./a.out 
+ 1997  cd git_env/RTR-105/works/1lw_series/
+ 1998  nano 5tylr_fun.c 
+ 1999  gcc 5tylr_fun.c -lm
+ 2000  ./a
+ 2001  ./a.out 
+ 2002  nano 5tylr_fun.c 
+ 2003  gcc 5tylr_fun.c -lm
+ 2004  ./a.out 
+ 2005  nano 5tylr_fun.c 
+ 2006  gcc 5tylr_fun.c -lm
+ 2007  ./a.out 
+ 2008  nano 5tylr_fun.c 
+ 2009  ./a.out 
+ 2010  ./a.out > a.txt
+ 2011  nano 5tylr_fun.c 
+ 2012  gcc 5tylr_fun.c -lm
+ 2013  nano 5tylr_fun.c 
+ 2014  gcc 5tylr_fun.c -lm
+ 2015  ./a.out
+ 2016  nano 5tylr_fun.c 
+ 2017  gcc 5tylr_fun.c -lm
+ 2018  ./a.out
+ 2019  nano 5tylr_fun.c 
+ 2020  gcc 5tylr_fun.c -lm
+ 2021  ./a.out
+ 2022  nano 5tylr_fun.c 
+ 2023  gcc 5tylr_fun.c -lm
+ 2024  ./a.out
+ 2025  nano 5tylr_fun.c 
+ 2026  gcc 5tylr_fun.c -lm
+ 2027  ./a.out
+ 2028  nano 5tylr_fun.c 
+ 2029  gcc 5tylr_fun.c -lm
+ 2030  ./a.out
+ 2031  nano 5tylr_fun.c 
+ 2032  gcc 5tylr_fun.c -lm
+ 2033  ./a.out
+ 2034  nano 5tylr_fun.c 
+ 2035  gcc 5tylr_fun.c -lm
+ 2036  ./a.out
+ 2037  nano 5tylr_fun.c 
+ 2038  gcc 5tylr_fun.c -lm
+ 2039  ./a.out
+ 2040  nano 5tylr_fun.c 
+ 2041  gcc 5tylr_fun.c -lm
+ 2042  ./a.out
+ 2043  nano 5tylr_fun.c 
+ 2044  gcc 5tylr_fun.c -lm
+ 2045  ./a.out
+ 2046  nano 5tylr_fun.c 
+ 2047  gcc 5tylr_fun.c -lm
+ 2048  ./a.out
+ 2049  nano 5tylr_fun.c 
+ 2050  gcc 5tylr_fun.c -lm
+ 2051  ./a.out
+ 2052  nano 5tylr_fun.c 
+ 2053  gcc 5tylr_fun.c -lm
+ 2054  ./a.out
+ 2055  nano 5tylr_fun.c 
+ 2056  gcc 5tylr_fun.c -lm
+ 2057  ./a.out
+ 2058  nano 5tylr_fun.c 
+ 2059  gcc 5tylr_fun.c -lm
+ 2060  ./a.out
+ 2061  nano 5tylr_fun.c 
+ 2062  gcc 5tylr_fun.c -lm
+ 2063  ./a.out
+ 2064  nano 5tylr_fun.c 
+ 2065  gcc 5tylr_fun.c -lm
+ 2066  ./a.out
+ 2067  nano 5tylr_fun.c 
+ 2068  gcc 5tylr_fun.c -lm
+ 2069  ./a.out
+ 2070  nano 5tylr_fun.c 
+ 2071  gcc 5tylr_fun.c -lm
+ 2072  ./a.out
+ 2073  nano 5tylr_fun.c 
+ 2074  gcc 5tylr_fun.c -lm
+ 2075  nano 5tylr_fun.c 
+ 2076  gcc 5tylr_fun.c -lm
+ 2077  ./a.out
+ 2078  nano 5tylr_fun.c 
+ 2079  gcc 5tylr_fun.c -lm
+ 2080  ./a.out
+ 2081  nano 5tylr_fun.c 
+ 2082  gcc 5tylr_fun.c -lm
+ 2083  ./a.out
+ 2084  nano 5tylr_fun.c 
+ 2085  gcc 5tylr_fun.c -lm
+ 2086  ./a.out
+ 2087  nano 5tylr_fun.c 
+ 2088  gcc 5tylr_fun.c -lm
+ 2089  ./a.out
+ 2090  nano 5tylr_fun.c 
+ 2091  gcc 5tylr_fun.c -lm
+ 2092  ./a.out
+ 2093  nano 5tylr_fun.c 
+ 2094  gcc 5tylr_fun.c -lm
+ 2095  ./a.out
+ 2096  nano 5tylr_fun.c 
+ 2097  gcc 5tylr_fun.c -lm
+ 2098  ./a.out
+ 2099  nano 5tylr_fun.c 
+ 2100  gcc 5tylr_fun.c -lm
+ 2101  ./a.out
+ 2102  nano 5tylr_fun.c 
+ 2103  gcc 5tylr_fun.c -lm
+ 2104  ./a.out
+ 2105  nano 5tylr_fun.c 
+ 2106  gcc 5tylr_fun.c -lm
+ 2107  nano 5tylr_fun.c 
+ 2108  gcc 5tylr_fun.c -lm
+ 2109  ./a.out
+ 2110  nano 5tylr_fun.c 
+ 2111  gcc 5tylr_fun.c -lm
+ 2112  ./a.out
+ 2113  nano 5tylr_fun.c 
+ 2114  gcc 5tylr_fun.c -lm
+ 2115  ./a.out
+ 2116  nano 5tylr_fun.c 
+ 2117  gcc 5tylr_fun.c -lm
+ 2118  ./a.out
+ 2119  nano 5tylr_fun.c 
+ 2120  gcc 5tylr_fun.c -lm
+ 2121  ./a.out
+ 2122  nano 5tylr_fun.c 
+ 2123  gcc 5tylr_fun.c -lm
+ 2124  ./a.out
+ 2125  nano 5tylr_fun.c 
+ 2126  gcc 5tylr_fun.c -lm
+ 2127  ./a.out
+ 2128  nano 5tylr_fun.c 
+ 2129  gcc 5tylr_fun.c -lm
+ 2130  ./a.out
+ 2131  nano 5tylr_fun.c 
+ 2132  gcc 5tylr_fun.c -lm
+ 2133  ./a.out
+ 2134  nano 5tylr_fun.c 
+ 2135  ./a.out
+ 2136  nano 5tylr_fun.c 
+ 2137  gcc 5tylr_fun.c -lm
+ 2138  ./a.out
+ 2139  nano 5tylr_fun.c 
+ 2140  gcc 5tylr_fun.c -lm
+ 2141  ./a.out
+ 2142  nano 5tylr_fun.c 
+ 2143  gcc 5tylr_fun.c -lm
+ 2144  ./a.out
+ 2145  nano 5tylr_fun.c 
+ 2146  gcc 5tylr_fun.c -lm
+ 2147  ./a.out
+ 2148  nano 5tylr_fun.c 
+ 2149  gcc 5tylr_fun.c -lm
+ 2150  ./a.out
+ 2151  nano 5tylr_fun.c 
+ 2152  gcc 5tylr_fun.c -lm
+ 2153  ./a.out
+ 2154  nano 5tylr_fun.c 
+ 2155  gcc 5tylr_fun.c -lm
+ 2156  ./a.out
+ 2157  nano 5tylr_fun.c 
+ 2158  gcc 5tylr_fun.c -lm
+ 2159  ./a.out
+ 2160  nano 5tylr_fun.c 
+ 2161  gcc 5tylr_fun.c -lm
+ 2162  ./a.out
+ 2163  nano 5tylr_fun.c 
+ 2164  gcc 5tylr_fun.c -lm
+ 2165  ./a.out
+ 2166  nano 5tylr_fun.c 
+ 2167  gcc 5tylr_fun.c -lm
+ 2168  ./a.out
+ 2169  nano 5tylr_fun.c 
+ 2170  gcc 5tylr_fun.c -lm
+ 2171  ./a.out
+ 2172  cp 5tylr_fun.c final_tyler_fun.c
+ 2173  nano final_tyler_fun.c 
+ 2174  gcc final_tyler_fun.c -lm
+ 2175  ./a.out 
+ 2176  nano final_tyler_fun.c 
+ 2177  gcc final_tyler_fun.c -lm
+ 2178  ./a.out 
+ 2179  cd ..
+ 2180  ls
+ 2181  cd study/gnuplot/
+ 2182  ls
+ 2183  nano pt9.sh
+ 2184  cd ../..
+ 2185  cd works/1lw_series/
+ 2186  ls
+ 2187  nano taylor.sh
+ 2188  nano taylor_23.gp
+ 2189  chmod 744 taylor.sh 
+ 2190  ls
+ 2191  ./taylor.sh 
+ 2192  nano taylor_23.gp
+ 2193  ./taylor.sh 
+ 2194  nano taylor_23.gp
+ 2195  ./taylor.sh 
+ 2196  nano taylor_23.gp
+ 2197  ./taylor.sh 
+ 2198  nano taylor_23.gp
+ 2199  ./taylor.sh 
+ 2200  nano taylor_23.gp
+ 2201  ./taylor.sh 
+ 2202  nano taylor_23.gp
+ 2203  nano taylor.sh 
+ 2204  nano taylor_23.gp
+ 2205  ./taylor.sh 
+ 2206  nano taylor_23.gp
+ 2207  git rm a.out 
+ 2208  git -f rm a.out 
+ 2209  git rm -f a.out 
+ 2210  cd ..
+ 2211  git add 1lw_series/
+ 2212  git status
+ 2213  git commit -m 'lab works 1'
+ 2214  git push
+ 2215  cd 1lw_series/
+ 2216  git rm a.txt 
+ 2217  ls
+ 2218  history > history_20201227.txt
