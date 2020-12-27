@@ -1,6 +1,6 @@
 # Scale font and line width (dpi) by chaning the size! It will always display stretched.
 set term png size 800,800 enhanced font 'georgia,12' butt
-set output 'function.png'
+set output 'taylor_series_23.png'
 
 # Key means label...
 set key inside bottom right
