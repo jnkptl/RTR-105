@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"  standalone="no"?>
+<svg 
+ width="800" height="800"
+ viewBox="0 0 800 800"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+
+<title>Gnuplot</title>
+<desc>Produced by GNUPLOT 5.2 patchlevel 8 </desc>
+
+<g id="gnuplot_canvas">
+
+<rect x="0" y="0" width="800" height="800" fill="#f5f5dc"/>
+<defs>
+
+	<circle id='gpDot' r='0.5' stroke-width='0.5' stroke='currentColor'/>
+	<path id='gpPt0' stroke-width='0.222' stroke='currentColor' d='M-1,0 h2 M0,-1 v2'/>
+	<path id='gpPt1' stroke-width='0.222' stroke='currentColor' d='M-1,-1 L1,1 M1,-1 L-1,1'/>
+	<path id='gpPt2' stroke-width='0.222' stroke='currentColor' d='M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1'/>
+	<rect id='gpPt3' stroke-width='0.222' stroke='currentColor' x='-1' y='-1' width='2' height='2'/>
+	<rect id='gpPt4' stroke-width='0.222' stroke='currentColor' fill='currentColor' x='-1' y='-1' width='2' height='2'/>
+	<circle id='gpPt5' stroke-width='0.222' stroke='currentColor' cx='0' cy='0' r='1'/>
+	<use xlink:href='#gpPt5' id='gpPt6' fill='currentColor' stroke='none'/>
+	<path id='gpPt7' stroke-width='0.222' stroke='currentColor' d='M0,-1.33 L-1.33,0.67 L1.33,0.67 z'/>
+	<use xlink:href='#gpPt7' id='gpPt8' fill='currentColor' stroke='none'/>
+	<use xlink:href='#gpPt7' id='gpPt9' stroke='currentColor' transform='rotate(180)'/>
+	<use xlink:href='#gpPt9' id='gpPt10' fill='currentColor' stroke='none'/>
+	<use xlink:href='#gpPt3' id='gpPt11' stroke='currentColor' transform='rotate(45)'/>
+	<use xlink:href='#gpPt11' id='gpPt12' fill='currentColor' stroke='none'/>
+	<path id='gpPt13' stroke-width='0.222' stroke='currentColor' d='M0,1.330 L1.265,0.411 L0.782,-1.067 L-0.782,-1.076 L-1.265,0.411 z'/>
+	<use xlink:href='#gpPt13' id='gpPt14' fill='currentColor' stroke='none'/>
+	<filter id='textbox' filterUnits='objectBoundingBox' x='0' y='0' height='1' width='1'>
+	  <feFlood flood-color='#F5F5DC' flood-opacity='1' result='bgnd'/>
+	  <feComposite in='SourceGraphic' in2='bgnd' operator='atop'/>
+	</filter>
+	<filter id='greybox' filterUnits='objectBoundingBox' x='0' y='0' height='1' width='1'>
+	  <feFlood flood-color='lightgrey' flood-opacity='1' result='grey'/>
+	  <feComposite in='SourceGraphic' in2='grey' operator='atop'/>
+	</filter>
+</defs>
+<g fill="none" color="#F5F5DC" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M37.3,713.3 L450.6,713.3 M766.7,713.3 L775.0,713.3  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M37.3,713.3 L46.3,713.3 M775.0,713.3 L766.0,713.3  '/>	<g transform="translate(29.0,717.2)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="calibri" >-6</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M37.3,611.9 L775.0,611.9  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M37.3,611.9 L46.3,611.9 M775.0,611.9 L766.0,611.9  '/>	<g transform="translate(29.0,615.8)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="calibri" >-4</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M37.3,510.5 L775.0,510.5  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M37.3,510.5 L46.3,510.5 M775.0,510.5 L766.0,510.5  '/>	<g transform="translate(29.0,514.4)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="calibri" >-2</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M37.3,409.0 L775.0,409.0  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M37.3,409.0 L46.3,409.0 M775.0,409.0 L766.0,409.0  '/>	<g transform="translate(29.0,412.9)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="calibri" > 0</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M37.3,307.6 L775.0,307.6  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M37.3,307.6 L46.3,307.6 M775.0,307.6 L766.0,307.6  '/>	<g transform="translate(29.0,311.5)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="calibri" > 2</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M37.3,206.2 L775.0,206.2  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M37.3,206.2 L46.3,206.2 M775.0,206.2 L766.0,206.2  '/>	<g transform="translate(29.0,210.1)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="calibri" > 4</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M37.3,104.8 L775.0,104.8  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M37.3,104.8 L46.3,104.8 M775.0,104.8 L766.0,104.8  '/>	<g transform="translate(29.0,108.7)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="calibri" > 6</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M90.0,764.0 L90.0,54.1  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M90.0,764.0 L90.0,755.0 M90.0,54.1 L90.0,63.1  '/>	<g transform="translate(90.0,785.9)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="calibri" >-6</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M195.4,764.0 L195.4,54.1  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M195.4,764.0 L195.4,755.0 M195.4,54.1 L195.4,63.1  '/>	<g transform="translate(195.4,785.9)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="calibri" >-4</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M300.8,764.0 L300.8,54.1  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M300.8,764.0 L300.8,755.0 M300.8,54.1 L300.8,63.1  '/>	<g transform="translate(300.8,785.9)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="calibri" >-2</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M406.2,764.0 L406.2,54.1  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M406.2,764.0 L406.2,755.0 M406.2,54.1 L406.2,63.1  '/>	<g transform="translate(406.2,785.9)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="calibri" > 0</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M511.5,764.0 L511.5,755.0 M511.5,647.0 L511.5,54.1  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M511.5,764.0 L511.5,755.0 M511.5,54.1 L511.5,63.1  '/>	<g transform="translate(511.5,785.9)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="calibri" > 2</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M616.9,764.0 L616.9,755.0 M616.9,647.0 L616.9,54.1  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M616.9,764.0 L616.9,755.0 M616.9,54.1 L616.9,63.1  '/>	<g transform="translate(616.9,785.9)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="calibri" > 4</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M722.3,764.0 L722.3,755.0 M722.3,647.0 L722.3,54.1  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M722.3,764.0 L722.3,755.0 M722.3,54.1 L722.3,63.1  '/>	<g transform="translate(722.3,785.9)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="calibri" > 6</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M37.3,54.1 L37.3,764.0 L775.0,764.0 L775.0,54.1 L37.3,54.1 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(406.1,31.0)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="calibri" >Differentiation function 23: COS(x/2)*COS(x/2)</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>COS2(X/2)</title>
+<g fill="none" color="#F5F5DC" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(707.9,659.9)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="calibri" >COS</tspan><tspan font-family="calibri"  font-size="9.6" dy="-6.00px">2</tspan><tspan font-family="calibri"  font-size="12.0" dy="6.00px">(X/2)</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb( 53,  71, 125)'  d='M716.2,656.0 L758.4,656.0 M37.3,364.6 L44.8,362.4 L52.2,360.7 L59.7,359.4 L67.1,358.6 L74.6,358.3
+		L82.0,358.6 L89.5,359.3 L96.9,360.5 L104.4,362.2 L111.8,364.3 L119.3,366.8 L126.7,369.6 L134.2,372.7
+		L141.6,376.0 L149.1,379.5 L156.5,383.1 L164.0,386.6 L171.4,390.2 L178.9,393.6 L186.3,396.7 L193.8,399.7
+		L201.2,402.3 L208.7,404.5 L216.1,406.4 L223.6,407.7 L231.0,408.6 L238.5,409.0 L245.9,408.9 L253.4,408.3
+		L260.8,407.2 L268.3,405.6 L275.7,403.6 L283.2,401.2 L290.7,398.5 L298.1,395.4 L305.6,392.1 L313.0,388.7
+		L320.5,385.1 L327.9,381.5 L335.4,378.0 L342.8,374.6 L350.3,371.3 L357.7,368.3 L365.2,365.6 L372.6,363.3
+		L380.1,361.4 L387.5,359.9 L395.0,358.9 L402.4,358.4 L409.9,358.4 L417.3,358.9 L424.8,359.9 L432.2,361.4
+		L439.7,363.3 L447.1,365.6 L454.6,368.3 L462.0,371.3 L469.5,374.6 L476.9,378.0 L484.4,381.5 L491.8,385.1
+		L499.3,388.7 L506.7,392.1 L514.2,395.4 L521.6,398.5 L529.1,401.2 L536.6,403.6 L544.0,405.6 L551.5,407.2
+		L558.9,408.3 L566.4,408.9 L573.8,409.0 L581.3,408.6 L588.7,407.7 L596.2,406.4 L603.6,404.5 L611.1,402.3
+		L618.5,399.7 L626.0,396.7 L633.4,393.6 L640.9,390.2 L648.3,386.6 L655.8,383.1 L663.2,379.5 L670.7,376.0
+		L678.1,372.7 L685.6,369.6 L693.0,366.8 L700.5,364.3 L707.9,362.2 L715.4,360.5 L722.8,359.3 L730.3,358.6
+		L737.7,358.3 L745.2,358.6 L752.6,359.4 L760.1,360.7 L767.5,362.4 L775.0,364.6  '/></g>
+	</g>
+	<g id="gnuplot_plot_2" ><title>(stored values) COS2(X/2)</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(707.9,677.9)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="calibri" >(stored values) COS</tspan><tspan font-family="calibri"  font-size="9.6" dy="-6.00px">2</tspan><tspan font-family="calibri"  font-size="12.0" dy="6.00px">(X/2)</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(187, 222, 214)'  d='M716.2,674.0 L758.4,674.0 M84.7,358.8 L100.5,361.4 L116.3,365.9 L132.1,372.0 L148.0,379.1 L163.8,386.7
+		L179.6,393.8 L195.4,400.4 L211.2,405.0 L227.0,408.0 L242.8,409.0 L258.6,407.5 L274.4,404.0 L290.2,398.4
+		L306.0,391.8 L321.8,384.2 L337.6,377.1 L353.5,370.0 L369.3,364.4 L385.1,360.4 L400.9,358.3 L416.7,358.8
+		L432.5,361.4 L448.3,365.9 L464.1,372.0 L479.9,379.6 L495.7,386.7 L511.5,394.3 L527.3,400.4 L543.2,405.5
+		L559.0,408.5 L574.8,409.0 L590.6,407.5 L606.4,404.0 L622.2,398.4 L638.0,391.3 L653.8,384.2 L669.6,376.6
+		L685.4,369.5 L701.2,363.9 L717.0,360.4 L732.8,358.3 L748.7,358.8 L764.5,361.9 L775.0,365.0  '/></g>
+	</g>
+	<g id="gnuplot_plot_3" ><title>(analytical formula) COS2'(X/2)</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(707.9,695.9)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="calibri" >(analytical formula) COS</tspan><tspan font-family="calibri"  font-size="9.6" dy="-6.00px">2</tspan><tspan font-family="calibri"  font-size="12.0" dy="6.00px">'(X/2)</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb( 53,  71, 125)'  d='M716.2,692.0 L758.4,692.0 M84.7,413.6 L100.5,420.7 L116.3,426.8 L132.1,431.4 L148.0,433.9 L163.8,434.4
+		L179.6,432.4 L195.4,428.3 L211.2,422.2 L227.0,415.6 L242.8,408.0 L258.6,400.4 L274.4,393.8 L290.2,388.8
+		L306.0,385.2 L321.8,383.7 L337.6,384.7 L353.5,387.8 L369.3,392.8 L385.1,399.4 L400.9,406.5 L416.7,414.1
+		L432.5,421.2 L448.3,427.3 L464.1,431.9 L479.9,433.9 L495.7,434.4 L511.5,431.9 L527.3,427.8 L543.2,422.2
+		L559.0,415.1 L574.8,407.5 L590.6,399.9 L606.4,393.3 L622.2,388.3 L638.0,384.7 L653.8,383.7 L669.6,384.7
+		L685.4,387.8 L701.2,392.8 L717.0,399.4 L732.8,407.0 L748.7,414.6 L764.5,421.7 L775.0,425.5  '/></g>
+	</g>
+	<g id="gnuplot_plot_4" ><title>(finite difference) COS2'(X/2)</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(707.9,713.9)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="calibri" >(finite difference) COS</tspan><tspan font-family="calibri"  font-size="9.6" dy="-6.00px">2</tspan><tspan font-family="calibri"  font-size="12.0" dy="6.00px">'(X/2)</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(250, 227, 217)'  d='M716.2,710.0 L758.4,710.0 M84.7,413.6 L100.5,420.7 L116.3,426.8 L132.1,431.4 L148.0,433.4 L163.8,433.9
+		L179.6,431.9 L195.4,427.8 L211.2,422.2 L227.0,415.6 L242.8,408.0 L258.6,400.9 L274.4,394.3 L290.2,388.8
+		L306.0,385.2 L321.8,384.2 L337.6,385.2 L353.5,388.3 L369.3,392.8 L385.1,399.4 L400.9,406.5 L416.7,414.1
+		L432.5,421.2 L448.3,426.8 L464.1,431.4 L479.9,433.9 L495.7,433.9 L511.5,431.9 L527.3,427.8 L543.2,421.7
+		L559.0,415.1 L574.8,407.5 L590.6,400.4 L606.4,393.8 L622.2,388.8 L638.0,385.2 L653.8,384.2 L669.6,385.2
+		L685.4,388.3 L701.2,393.3 L717.0,399.9 L732.8,407.0 L748.7,414.6 L764.5,421.2 L775.0,425.3  '/></g>
+	</g>
+	<g id="gnuplot_plot_5" ><title>(analytical formula) COS2''(X/2)</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(707.9,731.9)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="calibri" >(analytical formula) COS</tspan><tspan font-family="calibri"  font-size="9.6" dy="-6.00px">2</tspan><tspan font-family="calibri"  font-size="12.0" dy="6.00px">''(X/2)</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb( 53,  71, 125)'  d='M716.2,728.0 L758.4,728.0 M84.7,433.9 L100.5,431.4 L116.3,426.8 L132.1,420.7 L148.0,413.6 L163.8,406.0
+		L179.6,398.9 L195.4,392.3 L211.2,387.8 L227.0,384.7 L242.8,383.7 L258.6,385.2 L274.4,388.8 L290.2,394.3
+		L306.0,400.9 L321.8,408.5 L337.6,415.6 L353.5,422.7 L369.3,428.3 L385.1,432.4 L400.9,434.4 L416.7,433.9
+		L432.5,431.4 L448.3,426.8 L464.1,420.7 L479.9,413.1 L495.7,406.0 L511.5,398.4 L527.3,392.3 L543.2,387.2
+		L559.0,384.2 L574.8,383.7 L590.6,385.2 L606.4,388.8 L622.2,394.3 L638.0,401.4 L653.8,408.5 L669.6,416.1
+		L685.4,423.2 L701.2,428.8 L717.0,432.4 L732.8,434.4 L748.7,433.9 L764.5,430.9 L775.0,427.9  '/></g>
+	</g>
+	<g id="gnuplot_plot_6" ><title>(finite difference) COS2''(X/2)</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(707.9,749.9)" stroke="none" fill="black" font-family="calibri" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="calibri" >(finite difference) COS</tspan><tspan font-family="calibri"  font-size="9.6" dy="-6.00px">2</tspan><tspan font-family="calibri"  font-size="12.0" dy="6.00px">''(X/2)</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(255, 182, 185)'  d='M716.2,746.0 L758.4,746.0 M84.7,433.4 L100.5,430.9 L116.3,426.3 L132.1,420.7 L148.0,413.6 L163.8,406.5
+		L179.6,399.4 L195.4,392.8 L211.2,388.3 L227.0,385.2 L242.8,384.7 L258.6,385.7 L274.4,389.3 L290.2,394.3
+		L306.0,400.9 L321.8,408.5 L337.6,415.6 L353.5,422.2 L369.3,427.8 L385.1,431.9 L400.9,433.4 L416.7,433.4
+		L432.5,430.9 L448.3,426.3 L464.1,420.2 L479.9,413.1 L495.7,406.0 L511.5,398.9 L527.3,392.8 L543.2,387.8
+		L559.0,385.2 L574.8,384.7 L590.6,386.2 L606.4,389.8 L622.2,394.9 L638.0,401.4 L653.8,408.5 L669.6,416.1
+		L685.4,422.7 L701.2,428.3 L717.0,431.9 L732.8,433.4 L748.7,432.9 L764.5,430.3 L775.0,427.4  '/></g>
+	</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M37.3,54.1 L37.3,764.0 L775.0,764.0 L775.0,54.1 L37.3,54.1 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+</g>
+</svg>
+
