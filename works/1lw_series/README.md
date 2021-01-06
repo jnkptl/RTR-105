@@ -103,4 +103,4 @@ Recurrence multiplier:  _______________
                         (2*n) * (2*n-1)
 
 ```
-![Taylor series of cos^2(x/2)](https://github.com/jnkptl/RTR-105/blob/master/works/1lw_series/img_taylor_series_23.svg) "Taylor series of different orders"
+![Taylor series of cos^2(x/2)](https://github.com/jnkptl/RTR-105/blob/master/works/1lw_series/img_taylor_series_23.svg)"Taylor series of different orders"
