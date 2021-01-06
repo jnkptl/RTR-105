@@ -1,0 +1,1000 @@
+ 1274  ./a.out
+ 1275  nano 5tylr_fun.c 
+ 1276  gcc 5tylr_fun.c -lm
+ 1277  ./a.out
+ 1278  nano 5tylr_fun.c 
+ 1279  gcc 5tylr_fun.c -lm
+ 1280  ./a.out
+ 1281  nano 5tylr_fun.c 
+ 1282  gcc 5tylr_fun.c -lm
+ 1283  ./a.out
+ 1284  nano 5tylr_fun.c 
+ 1285  gcc 5tylr_fun.c -lm
+ 1286  ./a.out
+ 1287  nano 5tylr_fun.c 
+ 1288  gcc 5tylr_fun.c -lm
+ 1289  ./a.out
+ 1290  nano 5tylr_fun.c 
+ 1291  gcc 5tylr_fun.c -lm
+ 1292  ./a.out
+ 1293  nano 5tylr_fun.c 
+ 1294  gcc 5tylr_fun.c -lm
+ 1295  ./a.out
+ 1296  nano 5tylr_fun.c 
+ 1297  gcc 5tylr_fun.c -lm
+ 1298  ./a.out
+ 1299  nano 5tylr_fun.c 
+ 1300  ./a.out
+ 1301  nano 5tylr_fun.c 
+ 1302  gcc 5tylr_fun.c -lm
+ 1303  ./a.out
+ 1304  nano 5tylr_fun.c 
+ 1305  gcc 5tylr_fun.c -lm
+ 1306  ./a.out
+ 1307  nano 5tylr_fun.c 
+ 1308  gcc 5tylr_fun.c -lm
+ 1309  ./a.out
+ 1310  nano 5tylr_fun.c 
+ 1311  gcc 5tylr_fun.c -lm
+ 1312  ./a.out
+ 1313  nano 5tylr_fun.c 
+ 1314  gcc 5tylr_fun.c -lm
+ 1315  ./a.out
+ 1316  nano 5tylr_fun.c 
+ 1317  gcc 5tylr_fun.c -lm
+ 1318  ./a.out
+ 1319  nano 5tylr_fun.c 
+ 1320  gcc 5tylr_fun.c -lm
+ 1321  ./a.out
+ 1322  nano 5tylr_fun.c 
+ 1323  gcc 5tylr_fun.c -lm
+ 1324  ./a.out
+ 1325  nano 5tylr_fun.c 
+ 1326  gcc 5tylr_fun.c -lm
+ 1327  ./a.out
+ 1328  nano 5tylr_fun.c 
+ 1329  gcc 5tylr_fun.c -lm
+ 1330  ./a.out
+ 1331  nano 5tylr_fun.c 
+ 1332  gcc 5tylr_fun.c -lm
+ 1333  ./a.out
+ 1334  nano 5tylr_fun.c 
+ 1335  gcc 5tylr_fun.c -lm
+ 1336  ./a.out
+ 1337  cp 5tylr_fun.c final_tyler_fun.c
+ 1338  nano final_tyler_fun.c 
+ 1339  gcc final_tyler_fun.c -lm
+ 1340  ./a.out 
+ 1341  nano final_tyler_fun.c 
+ 1342  gcc final_tyler_fun.c -lm
+ 1343  ./a.out 
+ 1344  cd ..
+ 1345  ls
+ 1346  cd study/gnuplot/
+ 1347  ls
+ 1348  nano pt9.sh
+ 1349  cd ../..
+ 1350  cd works/1lw_series/
+ 1351  ls
+ 1352  nano taylor.sh
+ 1353  nano taylor_23.gp
+ 1354  chmod 744 taylor.sh 
+ 1355  ls
+ 1356  ./taylor.sh 
+ 1357  nano taylor_23.gp
+ 1358  ./taylor.sh 
+ 1359  nano taylor_23.gp
+ 1360  ./taylor.sh 
+ 1361  nano taylor_23.gp
+ 1362  ./taylor.sh 
+ 1363  nano taylor_23.gp
+ 1364  ./taylor.sh 
+ 1365  nano taylor_23.gp
+ 1366  ./taylor.sh 
+ 1367  nano taylor_23.gp
+ 1368  nano taylor.sh 
+ 1369  nano taylor_23.gp
+ 1370  ./taylor.sh 
+ 1371  nano taylor_23.gp
+ 1372  git rm a.out 
+ 1373  git -f rm a.out 
+ 1374  git rm -f a.out 
+ 1375  cd ..
+ 1376  git add 1lw_series/
+ 1377  git status
+ 1378  git commit -m 'lab works 1'
+ 1379  git push
+ 1380  cd 1lw_series/
+ 1381  git rm a.txt 
+ 1382  ls
+ 1383  history > history_20201227.txt
+ 1384  git add history_20201227.txt 
+ 1385  ls
+ 1386  nano README.md 
+ 1387  git commit
+ 1388  git status
+ 1389  git commit -m
+ 1390  git commit -m 'Lab Work 1'
+ 1391  git push
+ 1392  mv final_tyler_fun.c final_tylr_fun.c 
+ 1393  nano taylor_23.gp
+ 1394  mv function.png taylor_series_23.png
+ 1395  git status
+ 1396  ls
+ 1397  cd ..
+ 1398  git add 1lw_series/
+ 1399  cd 1lw_series/
+ 1400  git commit -m 'Lab Work 1'
+ 1401  git push
+ 1402  cd case_study/
+ 1403  git rm a.out 
+ 1404  nano prnt.c 
+ 1405  git rm prnt.c 
+ 1406  git commit -m 'Lab Work 1'
+ 1407  git push
+ 1408  exit
+ 1409  cd git_env/RTR-105/
+ 1410  ls
+ 1411  cd works/
+ 1412  ls
+ 1413  mkdir 2lw_roots
+ 1414  mv 3lw_series/ 3lw_derivative/
+ 1415  ls
+ 1416  cd 2lw_roots/
+ 1417  ls
+ 1418  mkdir case_study
+ 1419  ls
+ 1420  cd case_study/
+ 1421  nano 0bisection.c
+ 1422  gcc 0bisection.c -lm
+ 1423  nano 0bisection.c
+ 1424  gcc 0bisection.c -lm
+ 1425  ./a.out 
+ 1426  nano 0bisection.c
+ 1427  mv 0bisection.c 1bisection.c 
+ 1428  cp 1bisection.c 2bisection.c 
+ 1429  nano 2bisection.c 
+ 1430  cp 2bisection.c 1bisection.c 
+ 1431  nano 1bisection.c 
+ 1432  nano 2bisection.c 
+ 1433  gcc 2bisection.c -lm
+ 1434  nano 2bisection.c 
+ 1435  gcc 2bisection.c -lm
+ 1436  nano 2bisection.c 
+ 1437  gcc 2bisection.c -lm
+ 1438  nano 2bisection.c 
+ 1439  gcc 2bisection.c -lm
+ 1440  ./a.out 
+ 1441  nano 2bisection.c 
+ 1442  gcc 2bisection.c -lm
+ 1443  ./a.out 
+ 1444  nano 2bisection.c 
+ 1445  gcc 2bisection.c -lm
+ 1446  ./a.out 
+ 1447  cd ..
+ 1448  cd case_study/
+ 1449  cp 1bisection.c 0bisection.c 
+ 1450  mv 0bisection.c ~/git_env/RTR-105/works/2lw_roots/
+ 1451  ls
+ 1452  rm a.out 
+ 1453  cd ..
+ 1454  ls
+ 1455  nano 0bisection.c 
+ 1456  gcc 0bisection.c -lm
+ 1457  nano 0bisection.c 
+ 1458  gcc 0bisection.c -lm
+ 1459  ./a.out 
+ 1460  nano 0bisection.c 
+ 1461  gcc 0bisection.c -lm
+ 1462  ./a.out 
+ 1463  cd git_env/RTR-105/works/1lw_series/
+ 1464  ls
+ 1465  gcc final_tylr_fun.c 
+ 1466  gcc final_tylr_fun.c -lm
+ 1467  ./a.out 
+ 1468  rm a.out 
+ 1469  nano final_tylr_fun.c 
+ 1470  gcc final_tylr_fun.c -lm
+ 1471  nano final_tylr_fun.c 
+ 1472  gcc final_tylr_fun.c -lm
+ 1473  ./a.out 
+ 1474  nano final_tylr_fun.c 
+ 1475  gcc final_tylr_fun.c -lm
+ 1476  ./a.out 
+ 1477  nano final_tylr_fun.c 
+ 1478  gcc final_tylr_fun.c -lm
+ 1479  ./a.out 
+ 1480  cd git_env/RTR-105/works/2lw_roots/
+ 1481  ls
+ 1482  cd case_study/
+ 1483  ls
+ 1484  nano 1bisection.c 
+ 1485  cd ..
+ 1486  nano 0bisection.c 
+ 1487  ./a.out 
+ 1488  cd case_study/
+ 1489  cp 2bisection.c 
+ 1490  cp 2bisection.c 3bisection.c 
+ 1491  nano 3bisection.c 
+ 1492  cd git_env/RTR-105/works/2lw_roots/
+ 1493  ls
+ 1494  ./a.out 
+ 1495  cd case_study/
+ 1496  ls
+ 1497  nano 3bisection.c 
+ 1498  gcc 3bisection.c -lm
+ 1499  nano 3bisection.c 
+ 1500  gcc 3bisection.c -lm
+ 1501  ./a.out 
+ 1502  cd git_env/RTR-105/works/3lw_derivative/
+ 1503  ls
+ 1504  nano 1deriv.c 
+ 1505  ./a.out 
+ 1506  nano README.md
+ 1507  nano 3deriv.c 
+ 1508  mkdir case_study
+ 1509  nano 1deriv.c 
+ 1510  mv 1deriv.c case_study/
+ 1511  mv 3deriv.c case_study/
+ 1512  ls
+ 1513  cd case_study/
+ 1514  nano 0deriv.c
+ 1515  gcc 0deriv.c -lm
+ 1516  ./a.out 
+ 1517  nano 0deriv.c
+ 1518  gcc 0deriv.c -lm
+ 1519  nano 0deriv.c
+ 1520  gcc 0deriv.c -lm
+ 1521  ./a.out 
+ 1522  nano 0deriv.c
+ 1523  gcc 0deriv.c -lm
+ 1524  ./a.out 
+ 1525  nano 0deriv.c
+ 1526  gcc 0deriv.c -lm
+ 1527  ./a.out 
+ 1528  nano 0deriv.c
+ 1529  gcc 0deriv.c -lm
+ 1530  ./a.out 
+ 1531  nano 0deriv.c
+ 1532  gcc 0deriv.c -lm
+ 1533  ./a.out 
+ 1534  nano 0deriv.c
+ 1535  gcc 0deriv.c -lm
+ 1536  ./a.out 
+ 1537  nano 0deriv.c
+ 1538  gcc 0deriv.c -lm
+ 1539  ./a.out 
+ 1540  nano 0deriv.c
+ 1541  gcc 0deriv.c -lm
+ 1542  ./a.out 
+ 1543  nano 0deriv.c
+ 1544  gcc 0deriv.c -lm
+ 1545  ./a.out 
+ 1546  nano 0deriv.c
+ 1547  gcc 0deriv.c -lm
+ 1548  ./a.out 
+ 1549  nano 0deriv.c
+ 1550  gcc 0deriv.c -lm
+ 1551  nano 0deriv.c
+ 1552  gcc 0deriv.c -lm
+ 1553  ./a.out 
+ 1554  nano 0deriv.c
+ 1555  gcc 0deriv.c -lm
+ 1556  ./a.out 
+ 1557  nano 0deriv.c
+ 1558  gcc 0deriv.c -lm
+ 1559  ./a.out 
+ 1560  nano 0deriv.c
+ 1561  gcc 0deriv.c -lm
+ 1562  ./a.out 
+ 1563  nano 0deriv.c
+ 1564  gcc 0deriv.c -lm
+ 1565  ./a.out 
+ 1566  nano 0deriv.c
+ 1567  gcc 0deriv.c -lm
+ 1568  ./a.out 
+ 1569  nano 0deriv.c
+ 1570  gcc 0deriv.c -lm
+ 1571  ./a.out 
+ 1572  nano 0deriv.c
+ 1573  gcc 0deriv.c -lm
+ 1574  ./a.out 
+ 1575  nano 0deriv.c
+ 1576  gcc 0deriv.c -lm
+ 1577  ./a.out 
+ 1578  nano 0deriv.c
+ 1579  gcc 0deriv.c -lm
+ 1580  ./a.out 
+ 1581  nano 0deriv.c
+ 1582  gcc 0deriv.c -lm
+ 1583  ./a.out 
+ 1584  nano 0deriv.c
+ 1585  gcc 0deriv.c -lm
+ 1586  ./a.out 
+ 1587  nano 0deriv.c
+ 1588  gcc 0deriv.c -lm
+ 1589  ./a.out 
+ 1590  nano 0deriv.c
+ 1591  gcc 0deriv.c -lm
+ 1592  ./a.out 
+ 1593  nano 0deriv.c
+ 1594  ls
+ 1595  mv 1deriv.c 2deriv.c 
+ 1596  mv 0deriv.c 1deriv.c 
+ 1597  nano 2deriv.c 
+ 1598  mv 2deriv_fun_23.c 
+ 1599  mv 2deriv.c 2deriv_fun_23.c 
+ 1600  cp 1deriv.c 2deriv.c
+ 1601  nano 2deriv.c
+ 1602  fg
+ 1603  gcc -lm 2deriv.c
+ 1604  nano 2deriv.c
+ 1605  gcc -lm 2deriv.c
+ 1606  nano 2deriv.c
+ 1607  gcc 2deriv.c -lm
+ 1608  ./a.out 
+ 1609  rm 2deriv_fun_23.c 
+ 1610  nano 3deriv.c
+ 1611  rm 3deriv.c 
+ 1612  cp 2deriv.c 3deriv.c 
+ 1613  nano 3deriv.c 
+ 1614  nano 2deriv.c
+ 1615  nano 3deriv.c 
+ 1616  rm 2deriv.c 
+ 1617  mv 3deriv.c 2deriv.c 
+ 1618  cd ~
+ 1619  ls
+ 1620  cd git_env/RTR-105/works/3lw_derivative/
+ 1621  ls
+ 1622  cd case_study/
+ 1623  nano 3
+ 1624  nano 3deriv.c 
+ 1625  gcc 3deriv.c -lm
+ 1626  nano 3deriv.c 
+ 1627  gcc 3deriv.c -lm
+ 1628  nano 3deriv.c 
+ 1629  gcc 3deriv.c -lm
+ 1630  ./a.out 
+ 1631  nano 3deriv.c 
+ 1632  gcc 3deriv.c -lm
+ 1633  ./a.out 
+ 1634  nano 3deriv.c 
+ 1635  gcc 3deriv.c -lm
+ 1636  ./a.out 
+ 1637  nano 3deriv.c 
+ 1638  gcc 3deriv.c -lm
+ 1639  ./a.out 
+ 1640  nano 3deriv.c 
+ 1641  gcc 3deriv.c -lm
+ 1642  ./a.out 
+ 1643  nano 3deriv.c 
+ 1644  gcc 3deriv.c -lm
+ 1645  ./a.out 
+ 1646  nano 3deriv.c 
+ 1647  gcc 3deriv.c -lm
+ 1648  nano 3deriv.c 
+ 1649  gcc 3deriv.c -lm
+ 1650  ./a.out 
+ 1651  nano 3deriv.c 
+ 1652  gcc 3deriv.c -lm
+ 1653  ./a.out 
+ 1654  nano 3deriv.c 
+ 1655  cp 3deriv.c 1deriv_fun.c 
+ 1656  mv 1deriv_fun.c ..
+ 1657  ls
+ 1658  rm a.out 
+ 1659  cd ..
+ 1660  ls
+ 1661  nano 1deriv_fun.c 
+ 1662  gcc 1deriv_fun.c -lm
+ 1663  ./a.out 
+ 1664  nano 1deriv_fun.c 
+ 1665  gcc 1deriv_fun.c -lm
+ 1666  ./a.out 
+ 1667  nano 1deriv_fun.c 
+ 1668  gcc 1deriv_fun.c -lm
+ 1669  nano 1deriv_fun.c 
+ 1670  gcc 1deriv_fun.c -lm
+ 1671  ./a.out 
+ 1672  nano 1deriv_fun.c 
+ 1673  gcc 1deriv_fun.c -lm
+ 1674  ./a.out 
+ 1675  nano 1deriv_fun.c 
+ 1676  gcc 1deriv_fun.c -lm
+ 1677  ./a.out 
+ 1678  nano 1deriv_fun.c 
+ 1679  gcc 1deriv_fun.c -lm
+ 1680  ./a.out 
+ 1681  nano 1deriv_fun.c 
+ 1682  gcc 1deriv_fun.c -lm
+ 1683  ./a.out > data.txt
+ 1684  nano 1deriv_fun.c 
+ 1685  gcc 1deriv_fun.c -lm
+ 1686  nano 1deriv_fun.c 
+ 1687  gcc 1deriv_fun.c -lm
+ 1688  ./a.out > data.txt
+ 1689  nano 1deriv_fun.c 
+ 1690  gcc 1deriv_fun.c -lm
+ 1691  ./a.out > data.txt
+ 1692  nano 1deriv_fun.c 
+ 1693  gcc 1deriv_fun.c -lm
+ 1694  nano 1deriv_fun.c 
+ 1695  gcc 1deriv_fun.c -lm
+ 1696  nano 1deriv_fun.c 
+ 1697  gcc 1deriv_fun.c -lm
+ 1698  nano 1deriv_fun.c 
+ 1699  gcc 1deriv_fun.c -lm
+ 1700  ./a.out > data.txt
+ 1701  nano derivative_23.gp
+ 1702  nano 1deriv_fun.c 
+ 1703  gcc 1deriv_fun.c -lm
+ 1704  ./a.out > data.txt
+ 1705  gnuplot derivative_23.gp 
+ 1706  nano derivative_23.gp
+ 1707  gnuplot derivative_23.gp 
+ 1708  nano derivative_23.gp
+ 1709  gnuplot derivative_23.gp 
+ 1710  nano derivative_23.gp
+ 1711  gnuplot derivative_23.gp 
+ 1712  nano derivative_23.gp
+ 1713  gnuplot derivative_23.gp 
+ 1714  nano derivative_23.gp
+ 1715  gnuplot derivative_23.gp 
+ 1716  nano derivative_23.gp
+ 1717  gnuplot derivative_23.gp 
+ 1718  nano derivative_23.gp
+ 1719  gnuplot derivative_23.gp 
+ 1720  nano derivative_23.gp
+ 1721  gnuplot derivative_23.gp 
+ 1722  nano derivative_23.gp
+ 1723  gnuplot derivative_23.gp 
+ 1724  nano derivative_23.gp
+ 1725  gnuplot derivative_23.gp 
+ 1726  nano derivative_23.gp
+ 1727  gnuplot derivative_23.gp 
+ 1728  nano derivative_23.gp
+ 1729  gnuplot derivative_23.gp 
+ 1730  nano derivative_23.gp
+ 1731  gnuplot derivative_23.gp 
+ 1732  nano derivative_23.gp
+ 1733  gnuplot derivative_23.gp 
+ 1734  nano derivative_23.gp
+ 1735  gnuplot derivative_23.gp 
+ 1736  nano derivative_23.gp
+ 1737  gnuplot derivative_23.gp 
+ 1738  nano derivative_23.gp
+ 1739  gnuplot derivative_23.gp 
+ 1740  nano derivative_23.gp
+ 1741  gnuplot derivative_23.gp 
+ 1742  nano derivative_23.gp
+ 1743  gnuplot derivative_23.gp 
+ 1744  nano derivative_23.gp
+ 1745  gnuplot derivative_23.gp 
+ 1746  nano derivative_23.gp
+ 1747  gnuplot derivative_23.gp 
+ 1748  nano derivative_23.gp
+ 1749  gnuplot derivative_23.gp 
+ 1750  nano derivative_23.gp
+ 1751  gnuplot derivative_23.gp 
+ 1752  nano derivative_23.gp
+ 1753  gnuplot derivative_23.gp 
+ 1754  nano derivative_23.gp
+ 1755  gnuplot derivative_23.gp 
+ 1756  nano derivative_23.gp
+ 1757  gnuplot derivative_23.gp 
+ 1758  nano derivative_23.gp
+ 1759  gnuplot derivative_23.gp 
+ 1760  nano derivative_23.gp
+ 1761  gnuplot derivative_23.gp 
+ 1762  nano derivative_23.gp
+ 1763  gnuplot derivative_23.gp 
+ 1764  nano derivative_23.gp
+ 1765  gnuplot derivative_23.gp 
+ 1766  nano derivative_23.gp
+ 1767  gnuplot derivative_23.gp 
+ 1768  nano derivative_23.gp
+ 1769  gnuplot derivative_23.gp 
+ 1770  nano derivative_23.gp
+ 1771  gnuplot derivative_23.gp 
+ 1772  nano derivative_23.gp
+ 1773  gnuplot derivative_23.gp 
+ 1774  nano derivative_23.gp
+ 1775  cd git_env/RTR-105/works/3lw_derivative/
+ 1776  ls
+ 1777  nano 1deriv_fun.c 
+ 1778  gcc 1deriv_fun.c -lm
+ 1779  ./a.out 
+ 1780  nano 1deriv_fun.c 
+ 1781  gcc 1deriv_fun.c -lm
+ 1782  ./a.out 
+ 1783  nano 1deriv_fun.c 
+ 1784  gcc 1deriv_fun.c -lm
+ 1785  ./a.out 
+ 1786  nano 1deriv_fun.c 
+ 1787  gcc 1deriv_fun.c -lm
+ 1788  ./a.out 
+ 1789  nano 1deriv_fun.c 
+ 1790  gcc 1deriv_fun.c -lm
+ 1791  ./a.out 
+ 1792  nano 1deriv_fun.c 
+ 1793  gcc 1deriv_fun.c -lm
+ 1794  ./a.out 
+ 1795  nano 1deriv_fun.c 
+ 1796  gcc 1deriv_fun.c -lm
+ 1797  ./a.out 
+ 1798  nano 1deriv_fun.c 
+ 1799  gcc 1deriv_fun.c -lm
+ 1800  ./a.out 
+ 1801  nano 1deriv_fun.c 
+ 1802  gcc 1deriv_fun.c -lm
+ 1803  ./a.out 
+ 1804  nano 1deriv_fun.c 
+ 1805  gcc 1deriv_fun.c -lm
+ 1806  ./a.out 
+ 1807  nano 1deriv_fun.c 
+ 1808  gcc 1deriv_fun.c -lm
+ 1809  ./a.out 
+ 1810  nano 1deriv_fun.c 
+ 1811  gcc 1deriv_fun.c -lm
+ 1812  ./a.out 
+ 1813  nano 1deriv_fun.c 
+ 1814  gcc 1deriv_fun.c -lm
+ 1815  ./a.out 
+ 1816  nano 1deriv_fun.c 
+ 1817  gcc 1deriv_fun.c -lm
+ 1818  ./a.out 
+ 1819  nano 1deriv_fun.c 
+ 1820  gcc 1deriv_fun.c -lm
+ 1821  ./a.out 
+ 1822  nano 1deriv_fun.c 
+ 1823  gcc 1deriv_fun.c -lm
+ 1824  ./a.out 
+ 1825  nano 1deriv_fun.c 
+ 1826  gcc 1deriv_fun.c -lm
+ 1827  ./a.out 
+ 1828  nano 1deriv_fun.c 
+ 1829  gcc 1deriv_fun.c -lm
+ 1830  ./a.out 
+ 1831  nano 1deriv_fun.c 
+ 1832  gcc 1deriv_fun.c -lm
+ 1833  ./a.out 
+ 1834  nano 1deriv_fun.c 
+ 1835  gcc 1deriv_fun.c -lm
+ 1836  ./a.out 
+ 1837  nano 1deriv_fun.c 
+ 1838  nan outline_task.c
+ 1839  nano ouline_task.c
+ 1840  nano 1deriv_fun.c 
+ 1841  cd ~
+ 1842  cd git_env/RTR-105/study/gnuplot/
+ 1843  ls
+ 1844  nano pt9.sh
+ 1845  nano plot1.gp 
+ 1846  ./pt9.sh 
+ 1847  nano plot1.gp 
+ 1848  ./pt9.sh 
+ 1849  nano plot1.gp 
+ 1850  ./pt9.sh 
+ 1851  nano plot1.gp 
+ 1852  ./pt9.sh 
+ 1853  nano plot1.gp 
+ 1854  ./pt9.sh 
+ 1855  nano plot1.gp 
+ 1856  ./pt9.sh 
+ 1857  nano plot1.gp 
+ 1858  ./pt9.sh 
+ 1859  nano plot1.gp 
+ 1860  ./pt9.sh 
+ 1861  nano plot1.gp 
+ 1862  ./pt9.sh 
+ 1863  nano plot1.gp 
+ 1864  ./pt9.sh 
+ 1865  nano plot1.gp 
+ 1866  ./pt9.sh 
+ 1867  nano plot1.gp 
+ 1868  ./pt9.sh 
+ 1869  nano plot1.gp 
+ 1870  ./pt9.sh 
+ 1871  nano plot1.gp 
+ 1872  ./pt9.sh 
+ 1873  nano plot1.gp 
+ 1874  ./pt9.sh 
+ 1875  nano plot1.gp 
+ 1876  ./pt9.sh 
+ 1877  nano plot1.gp 
+ 1878  ./pt9.sh 
+ 1879  nano plot1.gp 
+ 1880  ./pt9.sh 
+ 1881  nano plot1.gp 
+ 1882  ./pt9.sh 
+ 1883  nano plot1.gp 
+ 1884  ./pt9.sh 
+ 1885  nano plot1.gp 
+ 1886  ./pt9.sh 
+ 1887  nano plot1.gp 
+ 1888  ./pt9.sh 
+ 1889  nano plot1.gp 
+ 1890  ./pt9.sh 
+ 1891  nano plot1.gp 
+ 1892  ./pt9.sh 
+ 1893  cd ~
+ 1894  cd git_env/RTR-105/works/3lw_derivative/
+ 1895  ls
+ 1896  nano derivative_23.gp 
+ 1897  gnuplot derivative_23.gp 
+ 1898  nano derivative_23.gp 
+ 1899  gnuplot derivative_23.gp 
+ 1900  nano derivative_23.gp 
+ 1901  gnuplot derivative_23.gp 
+ 1902  nano derivative_23.gp 
+ 1903  gnuplot derivative_23.gp 
+ 1904  nano derivative_23.gp 
+ 1905  gnuplot derivative_23.gp 
+ 1906  nano derivative_23.gp 
+ 1907  gnuplot derivative_23.gp 
+ 1908  nano derivative_23.gp 
+ 1909  gnuplot derivative_23.gp 
+ 1910  nano derivative_23.gp 
+ 1911  gnuplot derivative_23.gp 
+ 1912  ls
+ 1913  rm derivatives.png 
+ 1914  rm graphed_derivatives.png 
+ 1915  rm graphedderivatives.png 
+ 1916  rm g_derivatives.png 
+ 1917  nano derivative_23.gp 
+ 1918  gnuplot derivative_23.gp 
+ 1919  nano derivative_23.gp 
+ 1920  rm data.txt 
+ 1921  mv derivative_23.gp plot_derivative_23.gp 
+ 1922  ls
+ 1923  nano 1deriv_fun.c 
+ 1924  gcc 1deriv_fun.c -lm
+ 1925  ./a.out 
+ 1926  nano 1deriv_fun.c 
+ 1927  gcc 1deriv_fun.c -lm
+ 1928  ./a.out 
+ 1929  nano 1deriv_fun.c 
+ 1930  gcc 1deriv_fun.c -lm
+ 1931  ./a.out 
+ 1932  nano 1deriv_fun.c 
+ 1933  gcc 1deriv_fun.c -lm
+ 1934  nano 1deriv_fun.c 
+ 1935  gcc 1deriv_fun.c -lm
+ 1936  ./a.out 
+ 1937  nano 1deriv_fun.c 
+ 1938  gcc 1deriv_fun.c -lm
+ 1939  ./a.out 
+ 1940  nano 1deriv_fun.c 
+ 1941  gcc 1deriv_fun.c -lm
+ 1942  ./a.out 
+ 1943  nano 1deriv_fun.c 
+ 1944  gcc 1deriv_fun.c -lm
+ 1945  ./a.out 
+ 1946  nano 1deriv_fun.c 
+ 1947  gcc 1deriv_fun.c -lm
+ 1948  ./a.out 
+ 1949  nano 1deriv_fun.c 
+ 1950  gcc 1deriv_fun.c -lm
+ 1951  ./a.out 
+ 1952  nano 1deriv_fun.c 
+ 1953  gcc 1deriv_fun.c -lm
+ 1954  ./a.out 
+ 1955  nano 1deriv_fun.c 
+ 1956  gcc 1deriv_fun.c -lm
+ 1957  ./a.out 
+ 1958  #   x               f(x)            f'(x)           f''(x)
+ 1959  ano 1deriv_fun.c 
+ 1960  nano 1deriv_fun.c 
+ 1961  gcc 1deriv_fun.c -lm
+ 1962  ./a.out 
+ 1963  nano 1deriv_fun.c 
+ 1964  gcc 1deriv_fun.c -lm
+ 1965  ./a.out 
+ 1966  nano 1deriv_fun.c 
+ 1967  gcc 1deriv_fun.c -lm
+ 1968  ./a.out 
+ 1969  nano 1deriv_fun.c 
+ 1970  gcc 1deriv_fun.c -lm
+ 1971  ./a.out 
+ 1972  nano 1deriv_fun.c 
+ 1973  gcc 1deriv_fun.c -lm
+ 1974  ./a.out 
+ 1975  nano 1deriv_fun.c 
+ 1976  gcc 1deriv_fun.c -lm
+ 1977  ./a.out 
+ 1978  nano 1deriv_fun.c 
+ 1979  gcc 1deriv_fun.c -lm
+ 1980  ./a.out 
+ 1981  nano 1deriv_fun.c 
+ 1982  gcc 1deriv_fun.c -lm
+ 1983  ./a.out 
+ 1984  nano 1deriv_fun.c 
+ 1985  cp 1deriv_fun.c 2deriv_fun.c 
+ 1986  nano 2deriv_fun.c 
+ 1987  gcc 2deriv_fun.c -lm
+ 1988  ./a.out 
+ 1989  nano 2deriv_fun.c 
+ 1990  gcc 2deriv_fun.c -lm
+ 1991  ./a.out 
+ 1992  nano 2deriv_fun.c 
+ 1993  gcc 2deriv_fun.c -lm
+ 1994  ./a.out 
+ 1995  nano 2deriv_fun.c 
+ 1996  gcc 2deriv_fun.c -lm
+ 1997  ./a.out 
+ 1998  nano 2deriv_fun.c 
+ 1999  cd git_env/RTR-105/works/3lw_derivative/
+ 2000  ls
+ 2001  nano 2deriv_fun.c 
+ 2002  nano 1deriv_fun.c 
+ 2003  nano 2deriv_fun.c 
+ 2004  gcc 2deriv_fun.c -lm
+ 2005  ./a.out 
+ 2006  nano 2deriv_fun.c 
+ 2007  gcc 2deriv_fun.c -lm
+ 2008  nano 2deriv_fun.c 
+ 2009  gcc 2deriv_fun.c -lm
+ 2010  nano 2deriv_fun.c 
+ 2011  gcc 2deriv_fun.c -lm
+ 2012  nano 2deriv_fun.c 
+ 2013  gcc 2deriv_fun.c -lm
+ 2014  ./a.out 
+ 2015  nano 2deriv_fun.c 
+ 2016  gcc 2deriv_fun.c -lm
+ 2017  nano 2deriv_fun.c 
+ 2018  gcc 2deriv_fun.c -lm
+ 2019  ./a.out 
+ 2020  nano 2deriv_fun.c 
+ 2021  gcc 2deriv_fun.c -lm
+ 2022  ./a.out 
+ 2023  nano 2deriv_fun.c 
+ 2024  gcc 2deriv_fun.c -lm
+ 2025  ./a.out 
+ 2026  nano 2deriv_fun.c 
+ 2027  gcc 2deriv_fun.c -lm
+ 2028  ./a.out 
+ 2029  nano 2deriv_fun.c 
+ 2030  gcc 2deriv_fun.c -lm
+ 2031  ./a.out 
+ 2032  nano 2deriv_fun.c 
+ 2033  gcc 2deriv_fun.c -lm
+ 2034  ./a.out 
+ 2035  nano 2deriv_fun.c 
+ 2036  gcc 2deriv_fun.c -lm
+ 2037  nano 2deriv_fun.c 
+ 2038  gcc 2deriv_fun.c -lm
+ 2039  ./a.out 
+ 2040  nano 2deriv_fun.c 
+ 2041  gcc 2deriv_fun.c -lm
+ 2042  ./a.out 
+ 2043  nano 2deriv_fun.c 
+ 2044  gcc 2deriv_fun.c -lm
+ 2045  ./a.out 
+ 2046  nano 2deriv_fun.c 
+ 2047  gcc 2deriv_fun.c -lm
+ 2048  nano 2deriv_fun.c 
+ 2049  gcc 2deriv_fun.c -lm
+ 2050  ./a.out 
+ 2051  nano 2deriv_fun.c 
+ 2052  gcc 2deriv_fun.c -lm
+ 2053  ./a.out 
+ 2054  nano 2deriv_fun.c 
+ 2055  gcc 2deriv_fun.c -lm
+ 2056  ./a.out 
+ 2057  nano 2deriv_fun.c 
+ 2058  gcc 2deriv_fun.c -lm
+ 2059  ./a.out 
+ 2060  nano 2deriv_fun.c 
+ 2061  gcc 2deriv_fun.c -lm
+ 2062  ./a.out 
+ 2063  nano 2deriv_fun.c 
+ 2064  gcc 2deriv_fun.c -lm
+ 2065  ./a.out 
+ 2066  nano 2deriv_fun.c 
+ 2067  gcc 2deriv_fun.c -lm
+ 2068  nano 2deriv_fun.c 
+ 2069  gcc 2deriv_fun.c -lm
+ 2070  ./a.out 
+ 2071  nano 2deriv_fun.c 
+ 2072  nano plot_derivative_23.gp 
+ 2073  cp plot_derivative_23.gp bplot_derivative_23.gp 
+ 2074  nano plot_derivative_23.gp 
+ 2075  gnuplot plot_derivative_23.gp 
+ 2076  rm plot_derivative_23.gp 
+ 2077  mv bplot_derivative_23.gp plot_derivative_23.gp 
+ 2078  gnuplot plot_derivative_23.gp 
+ 2079  nano ouline_task.c 
+ 2080  nano 2deriv_fun.c 
+ 2081  cp 2deriv_fun.c 
+ 2082  cp 2deriv_fun.c 3deriv_fun.c 
+ 2083  nano 3deriv_fun.c 
+ 2084  gcc 3deriv_fun.c -lm
+ 2085  nano 3deriv_fun.c 
+ 2086  gcc 3deriv_fun.c -lm
+ 2087  nano 3deriv_fun.c 
+ 2088  gcc 3deriv_fun.c -lm
+ 2089  nano 3deriv_fun.c 
+ 2090  gcc 3deriv_fun.c -lm
+ 2091  nano 3deriv_fun.c 
+ 2092  gcc 3deriv_fun.c -lm
+ 2093  nano 3deriv_fun.c 
+ 2094  gcc 3deriv_fun.c -lm
+ 2095  nano 3deriv_fun.c 
+ 2096  gcc 3deriv_fun.c -lm
+ 2097  nano 3deriv_fun.c 
+ 2098  gcc 3deriv_fun.c -lm
+ 2099  nano 3deriv_fun.c 
+ 2100  gcc 3deriv_fun.c -lm
+ 2101  ./a.out 
+ 2102  nano 3deriv_fun.c 
+ 2103  ./a.out 
+ 2104  nano 3deriv_fun.c 
+ 2105  gcc 3deriv_fun.c -lm
+ 2106  nano 3deriv_fun.c 
+ 2107  gcc 3deriv_fun.c -lm
+ 2108  ./a.out 
+ 2109  nano 3deriv_fun.c 
+ 2110  gcc 3deriv_fun.c -lm
+ 2111  ./a.out 
+ 2112  nano 3deriv_fun.c 
+ 2113  gcc 3deriv_fun.c -lm
+ 2114  ./a.out 
+ 2115  nano ouline_task.c 
+ 2116  cp 3deriv_fun.c 4deriv_fun.c 
+ 2117  nano 4deriv_fun.c 
+ 2118  gcc 4deriv_fun.c -lm
+ 2119  nano 3deriv_fun.c 
+ 2120  nano 4deriv_fun.c 
+ 2121  gcc 4deriv_fun.c -lm
+ 2122  nano 4deriv_fun.c 
+ 2123  gcc 4deriv_fun.c -lm
+ 2124  ./a.out 
+ 2125  nano 4deriv_fun.c 
+ 2126  gcc 4deriv_fun.c -lm
+ 2127  ./a.out 
+ 2128  nano 4deriv_fun.c 
+ 2129  gcc 4deriv_fun.c -lm
+ 2130  nano 4deriv_fun.c 
+ 2131  gcc 4deriv_fun.c -lm
+ 2132  nano 4deriv_fun.c 
+ 2133  gcc 4deriv_fun.c -lm
+ 2134  nano 4deriv_fun.c 
+ 2135  gcc 4deriv_fun.c -lm
+ 2136  ./a.out 
+ 2137  nano 4deriv_fun.c 
+ 2138  ./a.out 
+ 2139  nano 4deriv_fun.c 
+ 2140  gcc 4deriv_fun.c -lm
+ 2141  ./a.out 
+ 2142  nano 4deriv_fun.c 
+ 2143  gcc 4deriv_fun.c -lm
+ 2144  ./a.out 
+ 2145  nano 4deriv_fun.c 
+ 2146  gcc 4deriv_fun.c -lm
+ 2147  ./a.out 
+ 2148  nano 4deriv_fun.c 
+ 2149  gcc 4deriv_fun.c -lm
+ 2150  ./a.out 
+ 2151  nano 4deriv_fun.c 
+ 2152  gcc 4deriv_fun.c -lm
+ 2153  ./a.out 
+ 2154  nano 4deriv_fun.c 
+ 2155  gcc 4deriv_fun.c -lm
+ 2156  ./a.out 
+ 2157  nano 4deriv_fun.c 
+ 2158  mv 4deriv_fun.c final_deriv_fun.c 
+ 2159  ls
+ 2160  nano plot_derivative_23.gp 
+ 2161  gnuplot plot_derivative_23.gp 
+ 2162  nano plot_23.gp
+ 2163  nano plot_derivative_23.gp
+ 2164  nano final_deriv_fun.c 
+ 2165  fg
+ 2166  gcc final_deriv_fun.c -lm
+ 2167  nano final_deriv_fun.c 
+ 2168  gcc final_deriv_fun.c -lm
+ 2169  nano final_deriv_fun.c 
+ 2170  gcc final_deriv_fun.c -lm
+ 2171  ls
+ 2172  nano final_deriv_fun.c 
+ 2173  gcc final_deriv_fun.c -lm
+ 2174  ./a.out 
+ 2175  nano final_deriv_fun.c 
+ 2176  gcc final_deriv_fun.c -lm
+ 2177  ./a.out 
+ 2178  nano graph_23.gp 
+ 2179  gnuplot graph_23.gp 
+ 2180  nano graph_23.gp 
+ 2181  nano final_deriv_fun.c 
+ 2182  gcc final_deriv_fun.c -lm
+ 2183  gnuplot graph_23.gp 
+ 2184  ./a.out 
+ 2185  gnuplot graph_23.gp 
+ 2186  nano final_deriv_fun.c 
+ 2187  ./a.out 
+ 2188  gnuplot graph_23.gp 
+ 2189  ./a.out 
+ 2190  nano final_deriv_fun.c 
+ 2191  gcc final_deriv_fun.c -lm
+ 2192  ./a.out 
+ 2193  gnuplot graph_23.gp 
+ 2194  nano final_deriv_fun.c 
+ 2195  gcc final_deriv_fun.c -lm
+ 2196  ./a.out 
+ 2197  gnuplot graph_23.gp 
+ 2198  nano final_deriv_fun.c 
+ 2199  gcc final_deriv_fun.c -lm
+ 2200  ./a.out 
+ 2201  gnuplot graph_23.gp 
+ 2202  nano final_deriv_fun.c 
+ 2203  gcc final_deriv_fun.c -lm
+ 2204  ./a.out 
+ 2205  gnuplot graph_23.gp 
+ 2206  gcc final_deriv_fun.c -lm
+ 2207  ./a.out 
+ 2208  gnuplot graph_23.gp 
+ 2209  nano final_deriv_fun.c 
+ 2210  rm g_derivatives.svg 
+ 2211  ./a.out 
+ 2212  gnuplot graph_23.gp 
+ 2213  ./a.out 
+ 2214  gnuplot graph_23.gp 
+ 2215  nano final_deriv_fun.c 
+ 2216  gcc final_deriv_fun.c -lm
+ 2217  ./a.out 
+ 2218  gnuplot graph_23.gp 
+ 2219  nano final_deriv_fun.c 
+ 2220  gcc final_deriv_fun.c -lm
+ 2221  ./a.out 
+ 2222  nano final_deriv_fun.c 
+ 2223  gcc final_deriv_fun.c -lm
+ 2224  ./a.out 
+ 2225  nano final_deriv_fun.c 
+ 2226  ./a.out 
+ 2227  nano final_deriv_fun.c 
+ 2228  gcc final_deriv_fun.c -lm
+ 2229  ./a.out 
+ 2230  nano final_deriv_fun.c 
+ 2231  gcc final_deriv_fun.c -lm
+ 2232  nano final_deriv_fun.c 
+ 2233  gcc final_deriv_fun.c -lm
+ 2234  ./a.out 
+ 2235  gnuplot graph_23.gp 
+ 2236  nano final_deriv_fun.c 
+ 2237  nano graph_23.gp 
+ 2238  gcc final_deriv_fun.c -lm
+ 2239  ./a.out 
+ 2240  nano graph_23.gp 
+ 2241  nano final_deriv_fun.c 
+ 2242  gcc final_deriv_fun.c -lm
+ 2243  nano final_deriv_fun.c 
+ 2244  gcc final_deriv_fun.c -lm
+ 2245  ./a.out 
+ 2246  nano final_deriv_fun.c 
+ 2247  gcc final_deriv_fun.c -lm
+ 2248  ./a.out 
+ 2249  gnuplot graph_23.gp 
+ 2250  nano final_deriv_fun.c 
+ 2251  ./a.out 
+ 2252  gnuplot graph_23.gp 
+ 2253  nano final_deriv_fun.c 
+ 2254  gcc final_deriv_fun.c -lm
+ 2255  ./a.out 
+ 2256  gnuplot graph_23.gp 
+ 2257  nano graph_23.gp 
+ 2258  ls
+ 2259  nano differentiate.sh
+ 2260  cd ..
+ 2261  git add 3lw_derivative/
+ 2262  git comment -m 'Lab Work 3 - Derivatives' 3lw_derivative/
+ 2263  git commit -m 'Lab Work 3 - Derivatives' 3lw_derivative/
+ 2264  git push
+ 2265  git status
+ 2266  cd 3lw_derivative/
+ 2267  ls
+ 2268  git rm a.out 
+ 2269  git rm e_derivative.svg 
+ 2270  git push
+ 2271  git commit -m 'update'
+ 2272  git push
+ 2273  history > history_yymmdd.txt

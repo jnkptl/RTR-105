@@ -7,7 +7,7 @@ void main()
 {
 	double x;
 	printf("cos(x/2)*cos(x/2) calculation:\n");
-	printf("please enter x value: ");
+	printf("please enter x value (radians): ");
 	scanf(" %lf",&x);
 	printf("\n");
 	fun(x);
@@ -25,20 +25,20 @@ double fun(double x) // 0.5 + [sum](-1)^n * (x)^2*n / 2*(2*n)!
 	printf("via user function:\n");
 	a = (0.5)+(pow(-1,n)*pow(x,2*n)/(2.)); // 0! = 1
 	S = a;
-	printf("  a0 =\t        %2.2Lf;\t   S0 = %2.4Lf\n",a,S);
+	printf("  a%d =\t        %2.2Lf;\t   S%d = %2.4Lf\n",n,a,n,S);
 	n++;
 
-	a = a*((-1)*x*x)/((2*n)*(2*n));
+	a = (a*-x*x)/((2*n)*(2*n));
 	S = S + a;
 	n++;
 
 	while(n<=500){
-		a = a*((-1)*x*x)/((2*n)*(2*n-1));
+		a = (a*-x*x)/((2*n)*(2*n-1));
 		S = S + a;
 		if(n==499)
-		 printf("a499 =\t %2.2Le;\t S499 = %2.4Lf\n",a,S);
+		 printf("a%d =\t %2.2Le;\t S%d = %2.4Lf\n",n,a,n,S);
 		if(n==500){
-		 printf("a500 =\t  %2.2Le;\t S500 = %2.4Lf\n\n",a,S);
+		 printf("a%d =\t  %2.2Le;\t S%d = %2.4Lf\n\n",n,a,n,S);
 		 }
 		n++;
 	}
@@ -46,7 +46,7 @@ double fun(double x) // 0.5 + [sum](-1)^n * (x)^2*n / 2*(2*n)!
 	printf("\n");
 }
 
-void draw(double x)
+void draw(double x) // creates ascii drawing of function 23 (cos(x/2)*cos(x/2))
 {
 	printf("%27c__500___\n",95);
 	printf("%27c",92);
