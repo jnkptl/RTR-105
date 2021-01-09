@@ -4,7 +4,12 @@
 
 \- Wikipedia
 
+# Taylor series
+The taylor series of a function using only _n_ terms, or partial sum, can be used to approximate value of a function at a certain point without using the actual function.
+
 ## Taylor series of cos^2(x/2)
+By taking the taylor series function of cos^2(x/2) we can calculate the value of the function at a point using only operations available to computers, which are built on ones and zeroes.
+
 ```
 #include <stdio.h>
 #include <math.h>
