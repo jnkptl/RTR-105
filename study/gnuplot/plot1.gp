@@ -1,13 +1,18 @@
+reset
 # Scale font and line width (dpi) by chaning the size! It will always display stretched.
-set term png size 1920,1080 enhanced font 'georgia,24' butt
-set output 'function.png'
+set term png size 800,800 enhanced font 'bahnschrift,24' background rgb 'beige' butt
+set output 'function_of_squares.png'
 
 # Key means label...
-set key inside bottom right
+# set key inside bottom right
+unset key
+set xrange [0:100]
+set yrange [0:100]
 set xlabel 'x'
 set ylabel 'f(x)'
 set title 'f(x) = x^2'
-# set style line 1 lc rgb '#000000'
+unset style line 1
+set style line 1 lt rgb "royalblue" lw 2
 # set style line 7 lc rgb 'royalblue' pt 7 ps 10
 # plot "data.txt" using 1:2 title 'y=x^2' with lines
-plot "data.txt" using 1:2 title 'y=x^2' with lines ls 1 lc rgb 'royalblue'
+plot "data.txt" using 1:2 title 'y=x^2' w lines ls 1

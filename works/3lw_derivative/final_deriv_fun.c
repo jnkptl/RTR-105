@@ -1,5 +1,3 @@
-
-// program prints data to file, 'derivative.dat'
 #include <stdio.h>
 #include <math.h>
 
@@ -9,21 +7,25 @@ void main(){
 	int s;
 
 	printf("differential of cos(x/2)*cos(x/2):\n\n");
-	printf("select direction (1 - forward, 2 - central, 3 - reverse): "); scanf(" %d",&s);
+	printf("select direction (1 - forward, 2 - central, 3 - reverse): ");
+	scanf(" %d",&s);
 
 	switch(s){
-	case 1:
-	derive(s);
-	break;
-	case 2:
-	derive(s);
-	break;
-	case 3:
-	derive(s);
-	break;
-	default:
-	printf("invalid selection\n");
-	break;
+	  case 1:
+	  derive(s);
+	  break;
+
+	  case 2:
+	  derive(s);
+	  break;
+
+	  case 3:
+	  derive(s);
+	  break;
+
+	  default:
+	  printf("invalid selection\n");
+	  break;
 	}
 }
 
@@ -40,7 +42,7 @@ void derive(int s){
 
 	for(i=0 ; i<n ; i++, a+=c){
 	x[i] = a;
-	y[i] = cos(x[i]/2)*cos(x[i]/2);
+	y[i] = cos(x[i]/2)*cos(x[i]/2); // function values of given range
 	f1[i] = -cos(x[i]/2)*sin(x[i]/2); // analytical function first derivative
 	f2[i] = (sin(x[i]/2)*sin(x[i]/2)-cos(x[i]/2)*cos(x[i]/2))/2; // analytical second derivative
 	}
@@ -58,23 +60,23 @@ void derive(int s){
 		 break;
 		case 2: // central differentiation
 		 for(i=1 ; i<n ; i++) // calculates f'(x)
-		 g[i] = (y[i+1]-y[i-1])/(2*(x[i+1]-x[i]));
+		   g[i] = (y[i+1]-y[i-1])/(2*(x[i+1]-x[i]));
 		 for(i=3 ; i<n-2 ; i++) // calculates f''(x)
-		 h[i] = (g[i+1]-g[i-1])/(2*(x[i+1]-x[i]));
+		   h[i] = (g[i+1]-g[i-1])/(2*(x[i+1]-x[i]));
 		 headr();
 	 	 fptr = fopen("derivative.dat","a+");
 		 for(i=3 ; i<n-2 ; i++) // prints data to file
-		 fprintf(fptr,"%7.2Lf%7.2Lf%15.2Lf%21.2Lf%21.2Lf%20.2Lf\n",x[i],y[i],f1[i],g[i],f2[i],h[i]);
+		   fprintf(fptr,"%7.2Lf%7.2Lf%15.2Lf%21.2Lf%21.2Lf%20.2Lf\n",x[i],y[i],f1[i],g[i],f2[i],h[i]);
 		 break;
 		case 3: // reverse differentiation
 		 for(i=n-1 ; i>0 ; i--)
-		 g[i] = (y[i]-y[i-1])/(x[i+1]-x[i]);
+		   g[i] = (y[i]-y[i-1])/(x[i+1]-x[i]);
 		 for(i=n-2 ; i>2 ; i--)
-		 h[i] = (g[i]-g[i-1])/(x[i+1]-x[i]);
+		   h[i] = (g[i]-g[i-1])/(x[i+1]-x[i]);
 		 headr();
 	 	 fptr = fopen("derivative.dat","a+");
 		 for(i=n-2 ; i>2 ; i--)
-		 fprintf(fptr,"%7.2Lf%7.2Lf%15.2Lf%21.2Lf%21.2Lf%20.2Lf\n",x[i],y[i],f1[i],g[i],f2[i],h[i]);
+		   fprintf(fptr,"%7.2Lf%7.2Lf%15.2Lf%21.2Lf%21.2Lf%20.2Lf\n",x[i],y[i],f1[i],g[i],f2[i],h[i]);
 		 break;
 		}
 

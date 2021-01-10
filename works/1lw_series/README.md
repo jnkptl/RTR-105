@@ -21,7 +21,7 @@ void main()
 {
 	double x;
 	printf("cos(x/2)*cos(x/2) calculation:\n");
-	printf("please enter x value: ");
+	printf("please enter value of x (in radians, can be any value from -inf to +inf): ");
 	scanf(" %lf",&x);
 	printf("\n");
 	fun(x);
@@ -38,7 +38,7 @@ double fun(double x) // 0.5 + [sum](-1)^n * (x)^2*n / 2*(2*n)!
 	printf("%7c(%.2f) = cos^2(%.2f/2) = %.4Lf\n\n",'f',x,x,y);
 	
 	printf("via user function:\n");
-	a = (0.5)+(pow(-1,n)*pow(x,2*n)/(2.)); // 0! = 1
+	a = (0.5)+(1*1)/(2.*1)); // 0! = 1
 	S = a;
 	printf(" a0 =\t %2.2Lf;\t S0 = %2.4Lf\n",a,S);
 	n++;

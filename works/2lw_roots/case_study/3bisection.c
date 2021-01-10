@@ -3,10 +3,9 @@
 // however if both values are negative...
 #include <stdio.h>
 #include <math.h>
-int old();
 
-float modified_fun(float x, float A){
-	return (cos(x/2)*cos(x/2))-A;}
+int root();
+float modified_fun(float x, float A);
 
 int main(){
 	float a, b, x, delta_x, y, A;
@@ -26,7 +25,11 @@ int main(){
 	}
 }
 
-int old(){
+float modified_fun(float x, float A){
+	return (cos(x/2)*cos(x/2))-A;
+}
+
+int root(){
 	float a, b, x, delta_x=1.e-3, y, A,funkca,funkcb,funkcx; int k=0;
 	funkca = cos(a/2)*cos(a/2);funkcb = cos(b/2)*cos(b/2);
 
@@ -47,7 +50,7 @@ int old(){
 	   a=x;
 	 else
 	  b=x;
-	 printf("%2d. iteration: cos(%7.3f/2)*cos(%7.3f/2)=%7.3f\t",k,a,a,cos(a/2)*cos(a/2));
+	 printf("iteration %02d: cos(%7.3f/2)*cos(%7.3f/2)=%7.3f\t",k,a,a,cos(a/2)*cos(a/2));
 	 printf("cos(%7.3f/2)*cos(%7.3f/2)=%7.3f\t",x,x,cos(x/2)*cos(x/2));
 	 printf("cos(%7.3f/2)*cos(%7.3f/2)=%7.3f\n",b,b,cos(b/2)*cos(b/2));}
 

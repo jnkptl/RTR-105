@@ -4,9 +4,8 @@
 #include <stdio.h>
 #include <math.h>
 void old();
+float modified_sin(float x, float A);
 
-float modified_sin(float x, float A){
-	return sin(x)-A;}
 int main(){
 	float a, b, x, delta_x, y, A;
 	a = 0;
@@ -23,6 +22,11 @@ int main(){
 	x+=delta_x;
 	}
 }
+
+float modified_sin(float x, float A){
+	return sin(x)-A;
+}
+
 void old(){
 	float a, b, x, delta_x=1.e-3, y, A,funkca,funkcb,funkcx; int k=0;
 	funkca = sin(a);funkcb = sin(b);
