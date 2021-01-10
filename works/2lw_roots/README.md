@@ -4,16 +4,16 @@
 values with opposite signs. The method consists of repeatedly bisecting the interval defined by these values and
 then selecting the subinterval in which the function changes sign, and therefore must contain a root."
 
-/-Wikipedia
+\-Wikipedia
 
 # Bisection Method for intersections with horizontal lines
 By modifying the function we are investigating, we can find intersections with a horizontal line.
 Where the bisection method analyses the function f(x)=0, modifying the function to be f(x)=c, we can find 
 at which x value the function equals c.
 
+## code:
 This program investigates where a function and line intersect within a user defined range [a:b] and accuracy
 delta_x.
-## code:
 ```
 #include <stdio.h>
 #include <math.h>
@@ -35,7 +35,7 @@ int main(){
 	printf("please define a horizontal line (y=c): ");
 	scanf(" %f",&c);
 
-	printf("please define precision: "); // please define the degree of accuracy of which you wish to find where the line intersects the function
+	printf("please define precision: ");
 	scanf(" %f",&delta_x);
 	printf("\n");
 
@@ -55,8 +55,8 @@ int main(){
 	return 0;
 }
 
-float intersect(float a, float b, float c, float delta_x){ // investigates where a chosen horizontal line intersect the function
-	float x, fun_a, fun_b, a0=a, b0=b; //,a=0.01, b=1.5*M_PI, delta_x=1.e-3, fun_x;
+float intersect(float a, float b, float c, float delta_x){
+	float x, fun_a, fun_b, a0=a, b0=b;
 	int k=0;
 
 	fun_a = cos(a/2)*cos(a/2)-c;
@@ -127,4 +127,4 @@ create gnuplot file (y/n)? y
 'plot_2lw.gp' created!
 ```
 The following image is a representation of the output:
-![gnuplot representation of output](https://github.com/jnkptl/RTR-105/blob/master/2lw_roots/img_roots.svg "intersection of line and function")
+![gnuplot representation of output](https://github.com/jnkptl/RTR-105/blob/master/works/2lw_roots/img_roots.svg "intersection of line and function")
