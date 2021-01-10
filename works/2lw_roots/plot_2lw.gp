@@ -1,4 +1,4 @@
-set term svg size 1200.000000,800.000000 enhanced font 'calibri,12' backg 'white'
+set term svg size 1200.000000,800.000000 enhanced font 'calibri,16' backg 'white'
 set output 'img_roots.svg'
 set key inside bottom right
 set grid

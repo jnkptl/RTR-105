@@ -19,14 +19,11 @@ int main(){
 	printf("please define a horizontal line (y=c): ");
 	scanf(" %f",&c);
 
-	printf("please define precision: "); // please define the degree of accuracy of which you wish to find where the line intersects the function
+	printf("please define precision: ");
 	scanf(" %f",&delta_x);
 	printf("\n");
 
-	if(c==0.00000)
-	 x=intersect(a,b,c,delta_x);
-	else
-	 x=intersect(a,b,c,delta_x);
+	x = intersect(a,b,c,delta_x);
 
 	char pr;
 	printf("\ncreate gnuplot file (y/n)? ");
@@ -39,8 +36,8 @@ int main(){
 	return 0;
 }
 
-float intersect(float a, float b, float c, float delta_x){ // investigates where a chosen horizontal line intersect the function
-	float x, fun_a, fun_b, a0=a, b0=b; //,a=0.01, b=1.5*M_PI, delta_x=1.e-3, fun_x;
+float intersect(float a, float b, float c, float delta_x){ // investigates intersection of function and line
+	float x, fun_a, fun_b, a0=a, b0=b;
 	int k=0;
 
 	fun_a = cos(a/2)*cos(a/2)-c;
@@ -79,7 +76,7 @@ void plot(float a,float b,float c,float x){ // to crop graph to given range
 	float w = (b-a)*400,h = 800;
 	FILE *fptr;
 	fptr = fopen("plot_2lw.gp","w+");
-	fprintf(fptr,"set term svg size %f,%f enhanced font 'calibri,12' backg 'white'\n",w,h);
+	fprintf(fptr,"set term svg size %f,%f enhanced font 'calibri,16' backg 'white'\n",w,h);
 	fprintf(fptr,"set output 'img_roots.svg'\n");
 	fprintf(fptr,"set key inside bottom right\n");
 	fprintf(fptr,"set grid\n");
@@ -94,3 +91,4 @@ void plot(float a,float b,float c,float x){ // to crop graph to given range
 	fclose (fptr);
 	printf("'plot_2lw.gp' created!\n");
 }
+
