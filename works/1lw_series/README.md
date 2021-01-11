@@ -1,14 +1,29 @@
 # Lab Work 1 - Numerical Methods - Taylor Series
 
->"The Taylor series of a function is an infinite sum of terms that are expressed in terms of the function's derivatives at a single point. For most common functions, the function and the sum of its Taylor series are equal near this point."
+>"The Taylor series of a function is an infinite sum of terms that are expressed in terms of the function's
+derivatives at a single point. For most common functions, the function and the sum of its Taylor series are
+equal near this point."
 
 \- Wikipedia
 
 # Taylor series
-The taylor series of a function using only _n_ terms, or partial sum, can be used to approximate value of a function at a certain point without using the actual function.
+The taylor series of a function using only _n_ terms, or partial sum, can be used to approximate value of a
+function at a certain point without using the actual function. Increasing the number of terms in a taylor
+polynomial increases the accuracy of function.
 
-## Taylor series of cos^2(x/2)
-By taking the taylor series function of cos^2(x/2) we can calculate the value of the function at a point using only operations available to computers, which are built on ones and zeroes.
+![Taylor series of cos^2(x/2)](https://github.com/jnkptl/RTR-105/blob/master/works/1lw_series/img_taylor_series_23.svg "Taylor series of different orders")
+The above image shows how taylor polynomials of different orders become closer to its investigated function
+as the numer of terms increases.
+
+Analysing the taylor series of cos^2(x/2), we find that we can multiply terms by the taylor series' recurrence factor.
+Which reduces the program to a loop.
+
+## code
+By taking the taylor series function of cos^2(x/2) we can calculate the value of the function at a point using
+only operations available to computers.
+
+The program takes a user defined value for x and analyses the first order polynomial. Which can then be used
+to find the subsequent terms by multipying by the recurrence factor, while taking the sum of each term.
 
 ```
 #include <stdio.h>
@@ -108,4 +123,3 @@ Recurrence multiplier:  _______________
                         (2*n) * (2*n-1)
 
 ```
-![Taylor series of cos^2(x/2)](https://github.com/jnkptl/RTR-105/blob/master/works/1lw_series/img_taylor_series_23.svg "Taylor series of different orders")
