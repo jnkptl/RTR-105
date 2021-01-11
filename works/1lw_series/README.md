@@ -11,9 +11,10 @@ The taylor series of a function using only _n_ terms, or partial sum, can be use
 function at a certain point without using the actual function. Increasing the number of terms in a taylor
 polynomial increases the accuracy of function.
 
-![Taylor series of cos^2(x/2)](https://github.com/jnkptl/RTR-105/blob/master/works/1lw_series/img_taylor_series_23.svg "Taylor series of different orders")
-The above image shows how taylor polynomials of different orders become closer to its investigated function
+The following image shows how taylor polynomials of different orders become closer to its investigated function
 as the numer of terms increases.
+
+![Taylor series of cos^2(x/2)](https://github.com/jnkptl/RTR-105/blob/master/works/1lw_series/img_taylor_series_23.svg "Taylor series of different orders")
 
 Analysing the taylor series of cos^2(x/2), we find that we can multiply terms by the taylor series' recurrence factor.
 Which reduces the program to a loop.
