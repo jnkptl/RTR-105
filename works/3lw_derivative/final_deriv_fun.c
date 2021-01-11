@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <math.h>
 
-void derive(); void headr(); void plot();
+void derive();
+void headr();
+void plot(double a, double b);
 
 void main(){
 	int s;
@@ -31,9 +33,12 @@ void main(){
 
 void derive(int s){
 	int i; double a,b,c;
-	printf("please define start of range, a: "); scanf(" %le",&a);
-	printf("please define end of range, b: "); scanf(" %le",&b);
-	printf("please define difference of x, c: "); scanf(" %le",&c);
+	printf("please define start of range, a: ");
+	scanf(" %le",&a);
+	printf("please define end of range, b: ");
+	scanf(" %le",&b);
+	printf("please define difference of x, c: ");
+	scanf(" %le",&c);
 
 	int n = ((b-a)/c)+1;
 	long double y[n], x[n], f1[n], f2[n], g[n], h[n];
@@ -48,7 +53,7 @@ void derive(int s){
 	}
 
 	switch(s){
-		case 1:
+		case 1: // forward differentiation
 		 for(i=0 ; i<n ; i++)
 		 g[i] = (y[i+1]-y[i])/(x[i+1]-x[i]);
 		 for(i=0 ; i<n-2 ; i++)
@@ -56,7 +61,7 @@ void derive(int s){
 		 headr();
 	 	 fptr = fopen("derivative.dat","a+");
 		 for(i=0 ; i<n-2 ; i++)
-		 fprintf(fptr,"%7.2Lf%7.2Lf%15.2Lf%21.2Lf%21.2Lf%20.2Lf\n",x[i],y[i],f1[i],g[i],f2[i],h[i]); // forward
+		 fprintf(fptr,"%7.2Lf%7.2Lf%15.2Lf%21.2Lf%21.2Lf%20.2Lf\n",x[i],y[i],f1[i],g[i],f2[i],h[i]);
 		 break;
 		case 2: // central differentiation
 		 for(i=1 ; i<n ; i++) // calculates f'(x)
@@ -83,6 +88,14 @@ void derive(int s){
 
 	fclose (fptr);
 	printf("'derivative.dat' updated!\n");
+
+	char pr;
+	printf("\ncreate gnuplot file (y/n)? ");
+	scanf(" %c",&pr);
+	if(pr=='y')
+	 plot(x[0],b);
+	else if(pr=='n')
+	 printf("no file created.\n");
 }
 
 void headr(){
@@ -96,17 +109,17 @@ void headr(){
 
 	fclose (fptr);
 }
-/*
-void plot(double a,double b,double c){ // to crop graph to given range
+
+void plot(double a,double b){ // to crop graph to given range
+	double w = (b-a)*400;
 	FILE *fptr;
-	fptr = fopen("graph_23.gp","w+");
-	fprintf(fptr,"set term svg size 800,800 enhanced font 'calibri,12' background 'beige'\n");
+	fptr = fopen("plot_3lw.gp","w+");
+	fprintf(fptr,"set term svg size 800,800 enhanced font 'calibri,12' backg 'beige'\n");
 	fprintf(fptr,"set output 'picture_derivative.svg'\n");
 	fprintf(fptr,"set key inside bottom right\n");
 	fprintf(fptr,"set grid\n");
-//	if(a>-2){b=(b-a);}else if(b<2){a=-M_PI;b=M_PI;}
-	fprintf(fptr,"set xrange [%5f:%5f]\n",a,b);
-	fprintf(fptr,"set yrange [%5f:%5f]\n",a,b);
+	fprintf(fptr,"set xrange [-5:5]\n");
+	fprintf(fptr,"set yrange [-5:5]\n");
 	fprintf(fptr,"unset xlabel\n");
 	fprintf(fptr,"unset ylabel\n");
 	fprintf(fptr,"set title 'differentiate function 23'\n");
@@ -117,6 +130,5 @@ void plot(double a,double b,double c){ // to crop graph to given range
 	fprintf(fptr,"\"derivative.dat\" using 1:5 w lines lc rgb '#35477d' lw 2 title '(analytical formula) COS^2''%c''(X/2)',%c\n",92,92);
 	fprintf(fptr,"\"derivative.dat\" using 1:6 title '(finite difference) COS^2''%c''(X/2)' w lines lc rgb '#ffb6b9' lw 2%c\n",92,92);
 	fclose (fptr);
-	printf("'graph_23.gp' created!\n");
+	printf("'plot_3lw.gp' created!\n");
 }
-*/

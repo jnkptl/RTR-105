@@ -1,12 +1,12 @@
 # Scale font and line width (dpi) by changing the size! It will always display stretched.
 set term svg size 800,800 enhanced font 'calibri,12' background rgb 'beige'
-set output 'g_derivatives.svg'
+set output 'img_derivatives.svg'
 
 # Key means label...
 set key inside bottom right
 set grid
-set xrange [-10:10]
-set yrange [-10:10]
+set xrange [-2:2]
+set yrange [-1.5:2.5]
 unset ylabel
 unset xlabel
 set title 'Derivatives of function 23: COS^2(X/2)'
