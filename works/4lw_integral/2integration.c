@@ -16,7 +16,7 @@ void main(){
 	printf("please define end of range (b): ");
 	scanf(" %f",&b);
 
-	printf("please define start of precision: ");
+	printf("please define precision: ");
 	scanf(" %f",&c);
 
 	printf("please select method (1 - rectangle rule, 2 - trapezoid rule, 3 - simpson's rule): ");
