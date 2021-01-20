@@ -15,7 +15,7 @@ The following image shows how taylor polynomials of different orders become clos
 as the numer of terms increases.
 
 <p align="center">
-  <img width="800" height="800" src="https://github.com/jnkptl/RTR-105/blob/master/works/1lw_series/img_taylor_series_23.svg">
+  <img alt="Taylor series of different orders" src="https://github.com/jnkptl/RTR-105/blob/master/works/1lw_series/img_taylor_series_23.svg">
 </p>
 
 Analysing the taylor series of cos^2(x/2), we find that we can multiply terms by the taylor series' recurrence factor.
