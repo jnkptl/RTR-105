@@ -2,7 +2,7 @@
 
 >"the science of using information discovered from collecting, organizing, and studying numbers."
 
-\-Cambridge Dictionary
+\- Cambridge Dictionary
 
 ## Bubble sort
 The bubble sort method works by systematically comparing pairs of values a number of times until they are in order
@@ -192,5 +192,34 @@ void modValue(char arr[], int n)
 ```
 ## Output:
 ```
+program to sort and evaluate user defined string:
 
+please enter string: computer science
+
+Unsorted array:
+ c   o   m   p   u   t   e   r       s   c   i   e   n   c   e
+099 111 109 112 117 116 101 114 032 115 099 105 101 110 099 101
+
+symbol with minimum value: ' '
+minimum value (int) = 32
+
+symbol with maximum value: 'u'
+maximum value (int) = 117
+
+symbol of average value: 'f'
+average value (float) = 102.56
+
+median value of string: 'k'
+median value (float) = 107.00
+
+modal value(s) of string: 'c', 'e' occur 3 times
+
+Sorted array:
+     c   c   c   e   e   e   i   m   n   o   p   r   s   t   u
+032 099 099 099 101 101 101 105 109 110 111 112 114 115 116 117
 ```
+## Histogram:
+![Histogram](https://github.com/jnkptl/RTR-105/blob/master/works/5lw_statistics/histogram.svg "Histogram")
+
+## Reference:
+code used for bubble sort algorithm: [geeksforgeeks](https://www.geeksforgeeks.org/bubble-sort/)

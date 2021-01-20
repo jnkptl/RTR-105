@@ -11,7 +11,7 @@ void avgValue(char arr[], int n);
 void medValue(char arr[], int n);
 void modValue(char arr[], int n);
 
-// Driver program to test above functions
+// Driver program to test functions
 int main()
 {
 
@@ -27,6 +27,7 @@ int main()
 	for(i=1 ; (int)buff[i-1]!=10 ; i++)
 	  n=i;
 
+	// creates array functions can work with
 	char arr[n];
 	for(i=0 ; i<n ; i++)
 	  arr[i] = buff[i];
@@ -57,7 +58,7 @@ void swap(char *xp, char *yp)
 	*yp = temp;
 }
 
-// A function to implement bubble sort
+// bubble sort
 void bubbleSort(char arr[], int n)
 {
 	int i, j;
@@ -69,7 +70,7 @@ void bubbleSort(char arr[], int n)
 
 }
 
-/* Function to print an array */
+// prints array
 void printArray(char arr[], int size)
 {
 	int i;
@@ -111,7 +112,7 @@ void avgValue(char arr[], int n)
 	printf("symbol of average value: '%c'\naverage value (float) = %.2f\n\n",(int)avg,avg);
 }
 
-// finds the median value by calculating the middle value (or value between 2 middle value if)
+// finds the median value by calculating the middle value (or mean of two middle values)
 void medValue(char arr[], int n)
 {
 	float med;
@@ -160,11 +161,11 @@ void modValue(char arr[], int n)
 	else if(max>1){
 	  printf("modal value(s) of string:");
 	  for(i=0, c=0 ; i<m ; i++){
-	    if(max==mod[i+1]-mod[i] && c==0){ // mod[i]-mod[i-1] = count of ith unique value
+	    if(max==mod[i+1]-mod[i] && c==0){ // mod[i]-mod[i-1] = count of unique value
 	      printf(" '%c'",arr[mod[i]]);
 	      c++;
 	    }
-	    else if(max==mod[i+1]-mod[i] && c>=1){ // mod[i]-mod[i-1] = count of ith unique value
+	    else if(max==mod[i+1]-mod[i] && c>=1){ // mod[i]-mod[i-1] = count of unique value
 	      printf(", '%c'",arr[mod[i]]);
 	      c++;
 	    }
